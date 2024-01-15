@@ -1,0 +1,40 @@
+import csv
+
+def read_csv_to_dict(file_path, slot_index):
+    data_dict = {}
+    with open(file_path, newline='') as csvfile:
+        reader = csv.reader(csvfile, delimiter='\t')
+        next(reader, None)  # Skip the header row
+        for row in reader:
+            key = (row[0], row[1])
+            data_dict[key] = set(row[slot_index].split())
+    return data_dict
+
+def calculate_word_overlap(slot1, slot2):
+    intersection = slot1.intersection(slot2)
+    if not slot1:  # Avoid division by zero
+        return 0
+    return len(intersection) / len(slot1)
+
+# Paths to your files - replace with the actual file paths
+slot_file_path = 'C:\\Users\\chen\\Desktop\\slot.csv'
+
+slot_name_file_path = 'C:\\Users\\chen\\Desktop\\slot_name.csv'
+
+# Read the data into dictionaries
+slot_dict = read_csv_to_dict(slot_file_path, 3)  # Adjust indices as needed
+slot_name_dict = read_csv_to_dict(slot_name_file_path, 3)  # Adjust indices as needed
+
+# Calculate word overlap for each utterance
+total_score = 0
+for key, slot_name_words in slot_name_dict.items():
+    if key in slot_dict:
+        score = calculate_word_overlap(slot_name_words, slot_dict[key])
+        total_score += score
+
+print(f"Total Word Overlap Score: {total_score}")
+
+
+
+    
+
