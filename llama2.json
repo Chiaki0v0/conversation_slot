@@ -1,0 +1,1257 @@
+Dialogue_id	Turn_id	Utterance	slot
+PMUL4398.json	0	i need a place to dine in the center thats expensive.	Dining Location Preference, Price Range Preference
+PMUL4398.json	1	I have several options for you; do you prefer African, Asian, or British food?	Cuisine Type
+PMUL4398.json	2	Any sort of food would be fine, as long as it is a bit expensive. Could I get the phone number for your recommendation?	Price Range, Request for Phone Number
+PMUL4398.json	3	There is an Afrian place named Bedouin in the centre. How does that sound?	Cuisine Type, Restaurant Name, Location
+PMUL4398.json	4	Sounds good, could I get that phone number? Also, could you recommend me an expensive hotel?	Request for Phone Number, Hotel Price Range	
+PMUL4398.json	5	Bedouin's phone is 01223367660. As far as hotels go, I recommend the University Arms Hotel in the center of town.	Phone Number, Hotel Name, Hotel Location
+PMUL4398.json	6	Yes. Can you book it for me?	Booking Request
+PMUL4398.json	7	Sure, when would you like that reservation?	Reservation Date Inquiry
+PMUL4398.json	8	i want to book it for 2 people and 2 nights starting from saturday.	Number of People, Duration of Stay Start Date
+PMUL4398.json	9	Your booking was successful. Your reference number is FRGZWQL2 . May I help you further?	Booking Confirmation, Reference Number
+PMUL4398.json	10	That is all I need to know. Thanks, good bye.	Conversation Closure
+PMUL4398.json	11	Thank you so much for Cambridge TownInfo centre. Have a great day!	Gratitude Expression, Well Wishes
+SNG1013.json	0	Guten Tag, I am staying overnight in Cambridge and need a place to sleep. I need free parking and internet.	Accommodation Need, Parking Requirement, Internet Requirement
+SNG1013.json	1	I have 4 different options for you. I have two cheaper guesthouses and two expensive hotels. Do you have a preference?	Accommodation Options, Price Range Preference Inquiry
+SNG1013.json	2	No, but I'd really like to be on the south end of the city. Do any of those fit the bill?	Location Preference
+SNG1013.json	3	Sure. Does price matter? We can narrow it down and find exactly what you need.	Price Consideration Inquiry
+SNG1013.json	4	No I don't care about the price. Which one do you recommend?	Indifference to Price, Recommendation Request
+SNG1013.json	5	I would recommend aylesbray lodge guest house. Would you like me to book that for you?	 Accommodation Recommendation, Booking Inquiry
+SNG1013.json	6	Yes, book it for 4 people and 4 nights starting from tuesday.	Booking Details
+SNG1013.json	7	The booking was unsuccessful. would you like another day or a shorter stay?	Booking Unsuccessful Notification, Alternative Booking Inquiry
+SNG1013.json	8	How about for 3 nights?	Revised Booking Duration
+SNG1013.json	9	Booked! Reference number is: 84ESP6F5	Booking Confirmation, Reference Number
+SNG1013.json	10	Great. I am all set then. Have a nice day. Bye.	Conversation Closure
+SNG1013.json	11	Have a nice stay. Bye.	Farewell and Well Wishes
+PMUL0121.json	0	Hi there! Can you give me some info on Cityroomz?	Information Request
+PMUL0121.json	1	Cityroomz is located at Sleeperz Hotel, Station Road in the Centre area. It is a moderatley priced hotel with a 0 star rating. Would you like to book a room?	Hotel Name, Hotel Location, Price Range, Star Rating, Booking Inquiry
+PMUL0121.json	2	Yes please. I need it for 7 people for 3 nights starting on tuesday.	Booking Request 
+PMUL0121.json	3	How many days would you like to book it for?	Booking Duration Inquiry
+PMUL0121.json	4	I would like to book it for 3 nights beginning on Tuesday.	Revised Booking Duration
+PMUL0121.json	5	Ok, Your rooms have been booked. Your reference number is CYJDAR7R . Is there anything else I can help you with today?	Booking Confirmation, Reference Number, Additional Assistance Offer
+PMUL0121.json	6	Yeah, I need a restaurant in the west and with expensive pricing.	Restaurant Location Preference, Price Range Preference
+PMUL0121.json	7	There are 9 expensive restaurants in the west area. Do you prefer a certain type of food?	Number of Restaurant Options, Cuisine Type Inquiry
+PMUL0121.json	8	No, I don't have a preference, but I need the phone number and postcode.	Indifference to Cuisine, Request for Contact Information
+PMUL0121.json	9	I recommend Graffiti, the number is 01223277977 and the postcode is cb30lx. Would you like me to book a table for you?	Restaurant Name, Phone Number, Postcode, Booking Inquiry
+PMUL0121.json	10	No, right now, I just need the infor. Thanks!	Information Request 
+PMUL0121.json	11	Can I help you with anything else today?	Additional Assistance Offer
+PMUL0121.json	12	That is all. thanks	Conversation Closure
+PMUL0121.json	13	Thank you for using our system.	Gratitude Expression
+PMUL3484.json	0	I am looking for a hotel named alyesbray lodge guest house.	Hotel Name
+PMUL3484.json	1	i have their info, what would you like to know?	Information Inquiry
+PMUL3484.json	2	I would like to book a reservation for it. Can you help me with that?	Booking Request
+PMUL3484.json	3	I sure can. First, I will need to know when you want your stay to begin and how many days you'll be staying. Also, how many people will be staying?	Start Date Inquiry, Stay Duration Inquiry, Number of Guests Inquiry
+PMUL3484.json	4	We will be arriving on Sunday and will stay for 5 nights.	Arrival Date, Stay Duration
+PMUL3484.json	5	Can you tell me how many guests will be staying in the room?	Number of Guests Inquiry
+PMUL3484.json	6	There will be 8 guests.	Number of Guests
+PMUL3484.json	7	Booking was successful. Your reference number is 4UFN3SWC . Will that be all for today?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL3484.json	8	that is it thank you.	Conversation Closure
+PMUL3484.json	9	You have a nice day then!	Well Wishes
+PMUL3484.json	10	Can you actually look up a restaurant for me as well?	Restaurant Information Request
+PMUL3484.json	11	sure thing what's the area and or name?	Restaurant Name or Area Inquiry
+PMUL3484.json	12	It's a place called Don Pasquale Pizzeria.	Restaurant Name
+PMUL3484.json	13	A very nice place in the centre. Need a reservation?	Restaurant Location Comment, Reservation Inquiry
+PMUL3484.json	14	Yes, I do. I'll need it booked for the same day, same people, and we'd like to eat at 19:00.	Reservation Confirmation, Booking Details
+PMUL3484.json	15	Booking was successful. The table will be reserved for 15 minutes. Reference number is : GVM0PAM2 .	Booking Confirmation Reservation Time, Reference Number
+PMUL3484.json	16	Great. One more thing. Can you book a taxi between the two places? I'd like to arrive at the restaurant in time for my reservation.	Transportation Request, Arrival Time Request
+PMUL3484.json	17	Contact number 07404031593. You are in a Red Skoda.	Taxi Contact Number, Taxi Description
+PMUL3484.json	18	Thank you so much that was all I needed.	Gratitude Expression
+PMUL3484.json	19	Alright, hope you enjoy the rest of your day.	Well Wishes
+SNG0389.json	0	i need a train on tuesday out of kings lynn	Departure Date, Departure Location
+SNG0389.json	1	What time of day would you like to leave?	Departure Time Inquiry
+SNG0389.json	2	I want to leave on Tuesday.	Departure Day
+SNG0389.json	3	Do you have a time you'd like to leave?		Departure Time Inquiry
+SNG0389.json	4	I'd like to leave after 9:30.	Departure Time Preference
+SNG0389.json	5	Is that 9:30 AM or PM?	Time of Day Clarification
+SNG0389.json	6	Looking for a train Tuesday leaving kings lynn after 9:30 to go to cambridge.	Train Schedule Request
+SNG0389.json	7	I'm sorry, I'm not seeing any trains for that time. Would you like to try another time or a different route?	No Availability Notification, Alternative Options Inquiry
+SNG0389.json	8	No, I'd like a train leaving after 09:30 departing from Kings Lynn and going to Cambridge. Please take another look?	Specific Train Request
+SNG0389.json	9	There are no trains running at this time. Can I narrow your search in any way?	No Availability Notification, Search Modification Offer
+SNG0389.json	10	Wow...no, I really needed that time. I guess not. Thanks anyway.	Disappointment Expression, Conversation Closure
+SNG0389.json	11	I do have a train living at 10:11 of that would work for you.	Alternative Train Option
+SNG0389.json	12	Yes, that works. Please book for two people. Thanks for checking again.	Acceptance of Alternative, Booking Request
+SNG0389.json	13	It's my pleasure. You're booked with reference HXG3N56O . The total fee is 19.6 GBP payable at the station. May I help with anything else?	Booking Confirmation, Reference Number, Payment Information, Further Assistance Offer
+SNG0389.json	14	Perfect. Thank you for your help. Have a great day. Bye.	Appreciation Expression, Well Wishes
+SNG0389.json	15	Thank you for using our service, goodbye.	Gratitude for Service Use, Farewell
+SNG0389.json	16	Have a nice day.	Well Wishes
+SNG0389.json	17	Booking was successful, the total fee is 19.6 GBP payable at the station . Reference number is : HXG3N56O .	Booking Confirmation Recap, Payment Information Recap, Reference Number Recap
+SNG01520.json	0	I am looking for a restaurant. I would like something cheap that has Chinese food.	Restaurant Type， Price Range Preference
+SNG01520.json	1	I've heard good things about the lucky star. Need a reservation?	Restaurant Recommendation， Reservation Inquiry
+SNG01520.json	2	Yes, could you make a reservation for 1 at 20:00 on Saturday?	Reservation Confirmation， Number of People， Reservation Time， Reservation Date
+SNG01520.json	3	Your booking was successful. The table will be reserved for 15 minutes. Reference number is : FDLFKTZM .	Booking Confirmation， Reference Number， Reservation Details
+SNG01520.json	4	Thank you so much for your help!	Gratitude Expression
+SNG01520.json	5	You're welcome. Thank you! Have a good day now!	Appreciation Response， Well Wishes
+SNG01520.json	6	Thanks, you too. Goodbye.	Gratitude and Farewell
+SNG01520.json	7	Thank you for using Cambridge TownInfo centre. Good-bye	Service Appreciation
+PMUL3951.json	0	Please find me a train from cambridge to stansted airport	Train Route Request
+PMUL3951.json	1	Sure, I can do that but first I need a little more information. What day would you like to travel as well as departure and arrival times?	Travel Date Inquiry， Departure and Arrival Time Inquiry
+PMUL3951.json	2	Saturday leaving Cambridge anytime after 20:00 please	Departure Day, Departure Time Preference
+PMUL3951.json	3	TR3128 will leave at 20:40 and arrive by 21:08. Do you need more information or would you like to book tickets?	Train Information, Further Information and Booking Inquiry
+PMUL3951.json	4	Can you book me 6 tickets please?	Ticket Booking Request
+PMUL3951.json	5	You're all set. Total for tickets is 48.48 GBP payable at the station. Reference number is JD6SA21J .	Booking Confirmation, Payment Information, Reference Number
+PMUL3951.json	6	I am also looking for The Riverside Brasserie.	Restaurant Search Request
+PMUL3951.json	7	riverside brasserie is a modern european restaurant in the centre. Its address is Doubletree by Hilton Cambridge Granta Place Mill Lane and postcode is cb21rt. Want to book it?	Restaurant Description, Restaurant Location, Booking Inquiry
+PMUL3951.json	8	Yes, I would like to book it and get a reference number.	Reservation Confirmation, Reference Number Request
+PMUL3951.json	9	Unfortunately, I cannot book it at this time.	Booking Inability Notification
+PMUL3951.json	10	Can you try for Saturday at 13:00?	Alternative Reservation Time Request
+PMUL3951.json	11	How many people will be dining?	Number of Guests Inquiry
+PMUL3951.json	12	6 people will be dining	Number of Guests Confirmation
+PMUL3951.json	13	Your booking was successful. Your reference number is 3VX3AOKS .	Booking Confirmation, Reference Number
+PMUL3951.json	14	Thanks for everything you have been great!	Gratitude Expression
+PMUL3951.json	15	Thank you is there anything else today?	Further Assistance Inquiry
+PMUL3951.json	16	No that is all I needed. Thank you ever so kindly.	Final Confirmation, Appreciation Expression
+PMUL3951.json	17	Wonderful. I'm glad I could help. Have a great day. Goodbye.	Satisfaction Acknowledgment, Well Wishes
+PMUL0843.json	0	I'm looking for an expensive restaurant in the centre if you could help me.	Restaurant Price Range, Restaurant Location Preference
+PMUL0843.json	1	I sure can. There are lots of choices. Are you looking for a particular type of food?	Cuisine Type Inquiry
+PMUL0843.json	2	No, not really. I think I'd like to try something different. Could you suggest something?	Cuisine Indifference, Restaurant Recommendation Request
+PMUL0843.json	3	There is a Korean restaurant called Little Seoul located at 108 Regent Street City Centre. Would you like their phone number?	Restaurant Recommendation, Restaurant Address, Phone Number Inquiry
+PMUL0843.json	4	Yes, I would like both the phone number and the postcode please.	Contact Information Request
+PMUL0843.json	5	The phone number for little seoul is 01223308681, postcode cb21dp. Can I help you with anything else today?	Phone Number, Postcode, Further Assistance Offer
+PMUL0843.json	6	Can I also have the address please?	Address Request
+PMUL0843.json	7	The address for Little Seoul is 108 Regent Street, City Centre. Is there anything else I can help you with?	Restaurant Address Confirmation, Additional Assistance Inquiry
+PMUL0843.json	8	I also want to see the travel times for a train going from Kings Lynn from Cambridge on Saturday. It should leave after 09:15.	Train Schedule Request
+PMUL0843.json	9	Is there a time you would like to arrive by?	Arrival Time Inquiry
+PMUL0843.json	10	I got that backwards. Need a train leaving Kings Lynn after 9:15 and arriving in Cambridge sometime on Saturday.	Corrected Train Schedule Request
+PMUL0843.json	11	TR2514 leaves at 10:11 and arrives at 10:58. Will this one work for you?	Train Information, Train Suitability Inquiry
+PMUL0843.json	12	Sure. Could you tell me the exact travel time?	Travel Time Inquiry
+PMUL0843.json	13	Sure. The travel time for TR2514 is 47 minutes. Anything else I can help you with today?	Travel Time Information, Further Assistance Offer
+PMUL0843.json	14	that is it for today. good day thank you	Conversation Closure
+PMUL0843.json	15	Have a wonderful day yourself. Goodbye.	Well Wishes and Farewell
+PMUL2979.json	0	I'm looking for a places to go and see during my upcoming trip to Cambridge.	Attraction Search Request
+PMUL2979.json	1	What area of town would you like?	Area Preference Inquiry
+PMUL2979.json	2	I would like to go to the south area please.	Area Preference
+PMUL2979.json	3	On the south side, your options are the cinema, entertainment venues, museums, nightclubs, parks, and a theatre.	Attraction Options
+PMUL2979.json	4	That's a lot of choices, how about nightclubs? Can you get me a couple of phone numbers for good ones? I'm hoping to catch DJ Squalour from Ibiza.	Attraction Type Preference, Phone Number Request, Specific Interest
+PMUL2979.json	5	The only nightclub in the south is called the place on 22 sidney street. Phone number is 01223324600. Can I help you with anything else?	Nightclub Recommendation, Nightclub Address, Phone Number, Further Assistance Offer
+PMUL2979.json	6	Yes, I would like an expensive hotel with free parking.	Hotel Preference, Parking Requirement
+PMUL2979.json	7	I have places that fit that description all over town, except in the north. If area is no concern, I recommend the Gonville in the center of town.	Hotel Recommendation, Hotel Location
+PMUL2979.json	8	Is it four star?	Star Rating Inquiry
+PMUL2979.json	9	No, it only 3 stars. The Huntington Marriott is 4 stars though. It is also expensive and has free parking and internet.	Star Rating Information, Hotel Facilities
+PMUL2979.json	10	Okay well now I need to get a taxi to leave the hotel by 17:45 to the attraction. I will need a contact number and car type.	Taxi Booking Request, Departure Time, Contact Number and Car Type Request
+PMUL2979.json	11	Booking completed! Booked car type : red lexus Contact number : 07421633218	Booking Confirmation, Car Type, Contact Number
+PMUL2979.json	12	I want to confirm that the booked red Lexus is a taxi, as I previously requested?	Booking Confirmation Inquiry
+PMUL2979.json	13	Yes, it is! Anything else needed?	Confirmation Response, Further Assistance Inquiry
+PMUL2979.json	14	No that is it. Thank you!	Final Confirmation, Gratitude Expression
+PMUL2979.json	15	you are welcome. enjoy your stay.	Well Wishes
+MUL1681.json	0	Hi, I'd like to book a train to stansted airport from cambridge. Can you help?	Train Booking Request
+MUL1681.json	1	Absolutely. Where will you departing from?	Departure Location Inquiry
+MUL1681.json	2	From Cambridge, which is why I asked the Cambridge TownInfo centre.	Departure Location Confirmation
+MUL1681.json	3	What day would you like to leave?	Travel Date Inquiry
+MUL1681.json	4	On Saturday. Is there a train that will arrive by 15:15?	Departure Day, Arrival Time Requirement
+MUL1681.json	5	There is! TR7213 leaves at 05:40 and arrive at 06:08 it is 10.10 pounds. Can I book that for you?	Train Information, Ticket Price, Booking Inquiry
+MUL1681.json	6	No need to book it. Thanks. But can you help me find a cheap restaurant in the south?	No Booking Required, Cheap Restaurant Search Request
+MUL1681.json	7	Sure - The Lucky Star serves Chinese food and Nandos serves Portuguese food. Do either of those sound good?	Restaurant Options, Cuisine Type
+MUL1681.json	8	The Lucky Star sounds good. That's all I need.	Restaurant Preference, Requirement Satisfaction Confirmation	
+MUL1681.json	9	Would you like to book a table?	Restaurant Booking Inquiry
+MUL1681.json	10	Can you also tell me the postcode?	Postcode Request
+MUL1681.json	11	Sure. The post code is cb17dy.	Postcode Information
+MUL1681.json	12	Thanks for your help. Good bye.	Gratitude Expression, Conversation Closure
+MUL1681.json	13	You're welcome. Please let me know if you need anything else.	Assistance Offer
+MUL0928.json	0	Yeah, could you recommend a good gastropub?	Gastropub Recommendation Request
+MUL0928.json	1	Backstreet Bistro. It's expensive though. There is a moderately priced one called The Cow Pizza Kitchen and Bar if preferred.	Gastropub Recommendation
+MUL0928.json	2	I would like to book a table at the Backstreet Bistro for 5 people at 16:00 on Thursday.	Restaurant Booking Request, Number of People, Reservation Time, Reservation Day
+MUL0928.json	3	No problem. That is booked for you and your reference number is 2VE84YC5 . Is there anything else I can book for you?	Booking Confirmation, Reference Number, Further Booking Inquiry
+MUL0928.json	4	Yes, any suggestions of museums found in the east area of town?	Museum Recommendation Request
+MUL0928.json	5	Yes, Gallery at Twelve a High Street is excellent, and has free admission. Would you like more information?	Museum Recommendation, Admission Fee Information, Further Information Inquiry
+MUL0928.json	6	Can I please have the phone number and address for that place?	Contact Information Request
+MUL0928.json	7	Certainly! The address for gallery at twelve a high street is fulbourn and the phone number is 01223295264. Can I help you with anything else?	Address Information, Phone Number, Further Assistance Offer
+MUL0928.json	8	Great that's all the information I needed today, thank you!	Information Satisfaction Confirmation, Gratitude Expression
+MUL0928.json	9	You are very welcome. Have a nice day. Good bye.	Farewell and Well Wishes
+WOZ20645.json	0	I want to find an expensive restaurant and serves european food. Can i also have the address, phone number and its area?	Restaurant Price Range, Cuisine Type, Contact Information Request
+WOZ20645.json	1	Eraina is a European restaurant in the centre area. Their address is St. Michael's Church Trinity Street City Centre and phone number 01223 355166.	Restaurant Recommendation, Restaurant Location, Address Information, Phone Number
+WOZ20645.json	2	thank you goodbye	Gratitude Expression, Conversation CloTaxi Booking Requestsure
+WOZ20645.json	3	Thank you and good bye	Gratitude and Farewell
+SNG02152.json	0	I need a 19:15 taxi to take me to Avalon.	Taxi Booking Request, Destination
+SNG02152.json	1	I can definitely help! Where are you departing from?	Departure Location Inquiry
+SNG02152.json	2	I will be departing from Primavera.	Departure Location Confirmation
+SNG02152.json	3	You car has been booked. It is a black volvo. Can I assist you any further?	Booking Confirmation, Car Type, Further Assistance Inquiry
+SNG02152.json	4	Can i get the contact number please	Contact Number Request
+SNG02152.json	5	Yes, your contact number is 07698022958. Can I assist you any further?	Contact Number, Further Assistance Offer
+SNG02152.json	6	No, that will be all. Good bye.	Final Confirmation, Farewell
+SNG02152.json	7	You're very welcome! Goodbye.	Gratitude Expression and Farewell
+PMUL2460.json	0	Where's a good place to eat crossover food in Cambridge?	Cuisine Type Inquiry
+PMUL2460.json	1	There are no crossover locations in Cambridge.	Cuisine Availability Information
+PMUL2460.json	2	How about British restaurants in the Centre instead?	Alternative Cuisine Type Inquiry
+PMUL2460.json	3	I have 7 in the centre that serve british food. I have 4 in the moderate price range and 3 in the expensive. Did you have a preference?	Restaurant Options, Price Range Options, Price Range Preference Inquiry
+PMUL2460.json	4	I would prefer the british food.	Cuisine Preference Confirmation
+PMUL2460.json	5	I have cotto that serves moderate priced food. Would you like to book a table?	Restaurant Recommendation, Booking Inquiry
+PMUL2460.json	6	Yes please make a booking for 8 people at 12:30 on friday.	Booking Request, Number of People, Booking Time, Booking Day
+PMUL2460.json	7	I have made your booking here is the information:Booking was successful. The table will be reserved for 15 minutes. Reference number is : VVSOH0TQ .	Booking Confirmation, Reference Number
+PMUL2460.json	8	What's a good college to visit near the restaurant?	College Visit Inquiry
+PMUL2460.json	9	There are 13 colleges in the centre. Is there a particular one you are interested in?	College Options, Specific College Interest Inquiry
+PMUL2460.json	10	Any college will be fine what do you recommend? I need the phone number for whichever you pick.	College Preference Indifference, College Recommendation and Contact Request
+PMUL2460.json	11	christi's college is in that area and has free entrance. There phone number is 01223334900. Is there anything else I can assist you with?	College Recommendation, Entrance Fee Information, College Contact Number, Further Assistance Inquiry
+PMUL2460.json	12	That is all I needed.	Information Satisfaction Confirmation
+PMUL2460.json	13	Thank you for choosing us and enjoy your stay.	Appreciation and Well Wishes
+MUL0358.json	0	I want a restaurant in the north of Cambridge that is within a moderate price range.	Restaurant Location Preference, Price Range Preference
+MUL0358.json	1	There are two restaurants fitting your description, one is Chinese cuisine and one is Indian cuisine. Do you have a preference?	Restaurant Options, Cuisine Preference Inquiry
+MUL0358.json	2	Please book a table for 4 at the Chinese place at 12:30 on Sunday and give me the reference number.	Restaurant Booking Request, Number of People, Booking Time, Booking Day, Reference Number Request
+MUL0358.json	3	Okay you're all set for Sunday at 12:30. Your reference number is F5BTP63A . Can I help you find anything else?	Booking Confirmation, Reference Number, Further Assistance Offer
+MUL0358.json	4	I am also looking for a train that goes to broxbourne on monday.	Train Search Request
+MUL0358.json	5	There are 19 trains to broxbourne on Monday leaving every hour starting at 05:01. Is there a specific time you'd like?	Train Options, Time Preference Inquiry
+MUL0358.json	6	I would like to arrive in broxbourne by 13:00.	Arrival Time Preference
+MUL0358.json	7	The one arriving closest to 13:00 is TR5971 leaving cambridge at 11:01 and arrives by 12:01 in broxbourne. Would you like to book a ticket?	Train Information, Ticket Booking Inquiry
+MUL0358.json	8	Can I just get the price on one of them?	Price Inquiry
+MUL0358.json	9	All tickets from cambridge to broxbourne on that day cost 17.90 pounds each.	Ticket Price Information
+MUL0358.json	10	Please book one.	Ticket Booking Request
+MUL0358.json	11	How many tickets do I need to reserve for your train?	Number of Tickets Inquiry	
+MUL0358.json	12	Just one, thank you! Please provide me with a reference number.	Ticket Quantity Confirmation, Reference Number Request
+MUL0358.json	13	Booking was successful, the total fee is 17.89 GBP payable at the station. Reference number is : T1FGQFDJ . Can I help with anything else today?	Booking Confirmatio, Payment Information, Reference Number, Further Assistance Inquiry
+MUL0358.json	14	No, thank you. That will be all for today. Thanks.	No Further Assistance Needed, Gratitude Expression
+MUL0358.json	15	Have a great day.	Well Wishes
+PMUL4450.json	0	Find me a train that leaves on Sunday after 14:00 please	Train Departure Time Inquiry
+PMUL4450.json	1	Certainly. Where are you headed?	Destination Inquiry
+PMUL4450.json	2	I am leaving norwich going to cambridge on sunday and I need a train that leaves the station any time after 14:00	Departure Location, Destination, Departure Time Preference
+PMUL4450.json	3	TR5234 will leave at 14:16, would that work for you?	Train Option, Travel Suitability Inquiry
+PMUL4450.json	4	Yes. Give me the ref number please.	Booking Confirmation, Reference Number Request
+PMUL4450.json	5	In order to get a ref number I must complete a booking first. How many tickets would you like me to book for you?	Booking Process Explanation, Ticket Quantity Inquiry
+PMUL4450.json	6	I would like one train ticket please.	Ticket Quantity Confirmation
+PMUL4450.json	7	Your reservation for 1 ticket on the TR5234 train was successful. Your Reference number is : PGQKG62W . Is there anything else I can do for you?	Booking Confirmation, Reference Number, Further Assistance Offer
+PMUL4450.json	8	Yes I am looking for a moderate priced place to eat in the east. Phone #, postcode and food type please	Restaurant Price Range Inquiry, Contact Information Request
+PMUL4450.json	9	You have three options for moderately priced restaurants. Do you prefer indian or italian food?	Restaurant Options, Cuisine Preference Inquiry
+PMUL4450.json	10	I would prefer Italian but Indian would be good as well. I will need the phone number and postcode of the restaurant. Thanks!	Cuisine Preference, Contact Information Request
+PMUL4450.json	11	The place is called The Curry Prince and the phone number is: 01223566388 and the post code is: cb58jj.	Restaurant Recommendation, Phone Number, Postcode
+PMUL4450.json	12	Thanks for helping me with this. I appreciate it! Goodbye!	Gratitude Expression, Conversation Closure
+PMUL4450.json	13	My pleasure. Have a great day.	Appreciation Response
+PMUL1251.json	0	I need to book a train to norwich that arrives by 16:15.	Train Booking Request
+PMUL1251.json	1	What day would you like to leave?	Departure Day Inquiry
+PMUL1251.json	2	I want to leave on Wednesday from Cambridge.	Departure Day Confirmation, Departure Location
+PMUL1251.json	3	The TR1144 leaves Cambridge for Norwich on Wednesday at 05:36. Would that be good for you?	Train Option, Travel Suitability Inquiry
+PMUL1251.json	4	What is the price and travel time?	Price and Travel Time Inquiry
+PMUL1251.json	5	The price is 17.60 pounds.	Ticket Price Information
+PMUL1251.json	6	And what is the travel time?	Travel Time Inquiry
+PMUL1251.json	7	It is 79 minutes.	Travel Time Information
+PMUL1251.json	8	Thanks! Can you also tell me if there are any multiple sports attractions in the center of town?	Sports Attractions Inquiry
+PMUL1251.json	9	there are not. i do have one in the east part of town. would you like the information for that venue?	Attraction Availability Information, Alternative Attraction Inquiry
+PMUL1251.json	10	Thats ok. I really want something in the centre. How about any suggestions on a good college to visit?	College Visit Inquiry
+PMUL1251.json	11	Christ's college is in the centre of town. Is there anything you need?	College Recommendation, Further Assistance Inquiry
+PMUL1251.json	12	Could you please get me the phone number?	Contact Information Request
+PMUL1251.json	13	sure it's 01223334900	Phone Number
+PMUL1251.json	14	Thank you. That is all that I need.	Gratitude Expression, Conversation Closure
+PMUL1251.json	15	Thank you, have a good day!	Gratitude and Well Wishes
+PMUL1842.json	0	I need a place to stay that has free wifi.	Accommodation Requirement	
+PMUL1842.json	1	I have 32 places that offer wifi, do you have a price range preference?	Accommodation Options, Price Range Preference Inquiry
+PMUL1842.json	2	could you provide details for something in the cheap price range?	Price Range Specification
+PMUL1842.json	3	There are 33 cheap hotels with wifi in Cambridge. Do you have a particular area you are interested in?	Cheap Accommodation Options, Area Preference Inquiry
+PMUL1842.json	4	No, I have no preference. Just pick one. That will be fine.	Area Preference Indifference
+PMUL1842.json	5	I recommend alexander bed and breakfast on 56 saint barnabas road would that due?	Accommodation Recommendation, Accommodation Address
+PMUL1842.json	6	Perfect. I'll need a room for myself, for five nights on tuesday.	Booking Request, Duration of Stay, Start Day of Booking
+PMUL1842.json	7	Perfect, you are all set for Alexander Bed and Breakfast on Tuesday, your reference number is 22DG5770 . Is there anything I can help with today?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL1842.json	8	Nope, that's it. Thanks!	Service Satisfaction Confirmation, Gratitude Expression
+PMUL1842.json	9	I hope you not going to sit in your room by yourself for 5 days, are you sure that you dont want to know about a restaurant or attraction?	Activity Suggestion, Further Inquiry
+PMUL1842.json	10	Actaully i will be on business so not out much but I do need a train, to cambridge leaving after 21:15	Train Requirement, Departure Time Preference, Purpose of Stay
+PMUL1842.json	11	Ok great. What day will you be traveling?	Travel Day Inquiry
+PMUL1842.json	12	Yes, I need a train going to cambridge leaving after 21:15 on tuesday departing from broxbourne.	Train Departure Day, Departure Location
+PMUL1842.json	13	I have the TR9688, which leaves at 12:32. Would you like to book this train?	Train Option, Booking Inquiry
+PMUL1842.json	14	I need a train after 21:15.	Departure Time Specification
+PMUL1842.json	15	There are 3 trains leaving an hour apart starting at 21:32. The travel time is 60 minutes and costs 17.90 pounds. Would you like me to book one?	Train Options, Travel Time and Cost, Booking Offer
+PMUL1842.json	16	No thank you. I just need the train ID and arrival time for one of them.	Train Information Request
+PMUL1842.json	17	The TR3112 arrives at 22:32.	Train ID, Arrival Time Information
+PMUL1842.json	18	Great, thanks for that information on the train. Can you book for a train leaving after 21:15?	Gratitude Expression, Train Booking Request
+PMUL1842.json	19	How many tickets do you need?	Ticket Quantity Inquiry
+PMUL1842.json	20	I need tickets for one person.	Ticket Quantity Confirmation
+PMUL1842.json	21	Your total is 17.89 GBP. You can pay that at the station. Your reference number is RAIYCNJU .	Ticket Price Information, Payment Instruction, Reference Number
+PMUL1842.json	22	that is all i needed for today. thanks a lot	Final Confirmation, Gratitude Expression
+PMUL1842.json	23	thank you for using this service good bye	Service Appreciation, Farewell
+PMUL4896.json	0	Hi, I'm traveling to Cambridge soon and am looking forward to seeing some local tourist attractions.	Travel Plan, Attraction Interest
+PMUL4896.json	1	There are many to see! Are you going to be traveling within a certain area of town?	Travel Area Inquiry
+PMUL4896.json	2	Actually, yes. We are traveling into the northern part of town.	Area Specific Travel
+PMUL4896.json	3	If you're heading north, I recommend taking a ride on the Riverboat Georgina.	Attraction Recommendation
+PMUL4896.json	4	That sounds nice but I would like to see about a guesthouse with free wifi.	Accommodation Inquiry
+PMUL4896.json	5	There at 10 guest houses in the north offering free wifi. Are you looking for a particular price range?	Accommodation Options, Price Range Inquiry
+PMUL4896.json	6	No, I don't really care about price. Just something in the north that includes wifi.	Price Indifference, Wifi Requirement
+PMUL4896.json	7	Acorn Guest house is located in the north , has free wifi and is moderately priced.	Guesthouse Recommendation, Guesthouse Features
+PMUL4896.json	8	Groovy!! Let get a booking for 2 people and 2 nights starting sunday.	Booking Request,  Number of People, Duration of Stay, Start Day
+PMUL4896.json	9	Your booking has been made and your reference number is O0FG9YKT . Acorn Guest House is located at 154 Chesterton Road. Is there anything else I can do for you?	Booking Confirmation, Reference Number, Guesthouse Address, Further Assistance Offer
+PMUL4896.json	10	Yes, I am looking to visit the cherry hinton hall and grounds. Can I please have more information on that?	Attraction Inquiry, Information Request
+PMUL4896.json	11	Sure, that's a great entertainment venue in the East. Their phone number is 01223446104. Is there anything else you need to know?	Attraction Information, Phone Number, Further Inquiry
+PMUL4896.json	12	No, taht will be all. Thanks, goodbye.	Final Confirmation, Gratitude and Farewell
+PMUL4896.json	13	Thank you for using our service!	Service Appreciation
+MUL2431.json	0	Can you help me book a table at a chinese restaurant that's in the centre of town?	Restaurant Booking Request, Restaurant Location Preference
+MUL2431.json	1	Great choice! I have 10 Chinese restaurants. What is your price range and we can narrow them down.	Restaurant Options, Price Range Inquiry
+MUL2431.json	2	I need some cheap Chop Suey, please.	Price Range Preference, Cuisine Preference
+MUL2431.json	3	How does the Charlie Chan sound? It is a cheap Chinese restaurant in the centre.	Restaurant Recommendation, Restaurant Price Information, Restaurant Location
+MUL2431.json	4	That sounds like they'll have some awesome Chop Suey. Please book me a table for 2 on Tuesday at 12:45.	Booking Request, Number of People, Booking Day, Booking Time
+MUL2431.json	5	I am sorry but charlie chan is booked for that time. Do you want to pick an earlier or later time, or a different day?	Booking Availability Information, Alternative Timing Inquiry
+MUL2431.json	6	Can we try the same day for 11:45 please? And can I have the reference number as well, thanks.	Alternative Booking Time Request, Reference Number Request
+MUL2431.json	7	Great News! I was able to reserve your table for 2 at the 11:45 time. They will hold the table for 15 minutes. Reference number is : GFIL3UG5 .	Booking Confirmation, Number of People and Time, Table Holding Information, Reference Number
+MUL2431.json	8	Thank you. I am also looking for places to go in the same area as the restaurant.	Gratitude Expression, Local Attractions Inquiry
+MUL2431.json	9	There are dozens of attractions in the centre. What type of activities are you interested in? Museums? Architecture? Boat Rides? Something else?	Attraction Options, Activity Type Inquiry
+MUL2431.json	10	I am looking for some type of entertainment in the same area as the restaurant, please.	Entertainment Preference
+MUL2431.json	11	There are all kinds of entertainment choices. Did you have something in mind?	extract slot names from this utterances
+MUL2431.json	12	No, just an entertainment attraction in the same area as the restaurant. Can you make a suggestion?	Entertainment Attraction Inquiry
+MUL2431.json	13	What about a museum? The cambridge contemporary art is a nice one.	Entertainment Suggestion, Museum Recommendation
+MUL2431.json	14	That sounds nice can I get their phone number, entrance fee, and address please?	Information Request
+MUL2431.json	15	The phone number is 01223324222, the address is 6 Trinity Street, and it is free admittance.	Museum Contact Information, Admission Fee Information
+MUL2431.json	16	Thank you so much for your help.	Gratitude Expression
+MUL2431.json	17	Will that be everything for you today then?	Further Assistance Inquiry
+MUL2431.json	18	That will be all. Thank you for your help!	Final Confirmation, Gratitude Expression
+MUL2431.json	19	Glad to be of assistance, have a great day!	Assistance Acknowledgment, Well Wishes
+MUL2431.json	20	Thanks, take care buddy!	Gratitude and Farewell
+MUL2431.json	21	Thank you goodbye	Farewell
+SNG1375.json	0	I am looking for a train to Ely.	Train Destination Reques
+SNG1375.json	1	What day are you looking to travel?	Travel Date Inquiry
+SNG1375.json	2	I need to leave a little after 8:00 on Sunday, and I'm leaving from Cambridge.	Departure Time Preference, Travel Day, Departure Location
+SNG1375.json	3	The closest train I have is the TR3177 that leaves at 09:50. There's nothing earlier on that day.	Train Option, Earliest Train Information
+SNG1375.json	4	That will have to work. What is the arrival time?	Train Selection Confirmation, Arrival Time Inquiry
+SNG1375.json	5	The arrival time is 10:07.	Train Arrival Time Information
+SNG1375.json	6	Perfect! That's all I needed to know. Thanks. Have a great day.	Satisfaction Confirmation, Gratitude Expression, Well Wishes
+SNG1375.json	7	Have a wonderful day!	Well Wishes
+PMUL1031.json	0	I need to take a train from bishops stortford to Cambridge. Ill need to leave after 9:00	Departure Time Preference， Train Route Request
+PMUL1031.json	1	There are 56 trains traveling from Bishops Stortford to Cambridge after 9:00 between Friday and Wednesday. What day to you want to travel?	Train Options， Travel Date Inquiry
+PMUL1031.json	2	I want to leave on Sunday.	Travel Day Confirmation
+PMUL1031.json	3	How about TR4803 that leaves at 09:29?	Train Option
+PMUL1031.json	4	That will work can you book that for me please?	Booking Confirmation， Booking Request
+PMUL1031.json	5	Of course. How many tickets do you need?	Ticket Quantity Inquiry
+PMUL1031.json	6	Actually, I don't need a booking. I just need to know when it arrives, thanks.	Booking Cancellation， Arrival Time Inquiry
+PMUL1031.json	7	It arrives at 10:07.	Train Arrival Time Information
+PMUL1031.json	8	Thank you. I am also looking for a park to go to.	Park Inquiry
+PMUL1031.json	9	I have 5 to choose from. Is there a certain area you were wanting the park to be in?	Park Option， Location Preference Inquiry
+PMUL1031.json	10	no specific area. just recommend one.	Recommendation Request， Location Indifference
+PMUL1031.json	11	Milton Country Park is a great place to visit! It's in the North and free to enter.	Park Recommendation， Park Location， Admission Information
+PMUL1031.json	12	Great! Please, give me the address of the park.	Address Request
+PMUL1031.json	13	milton country park, milton.	Park Address
+PMUL1031.json	14	Thank you so much for your time. Have a nice day!	Well Wishes， Gratitude Expression
+PMUL1031.json	15	You too, enjoy your stay!	Reciprocal Well Wishes
+WOZ20027.json	0	I am looking for a restaurant that is in the expensive price range and in the south part of town.	Restaurant Price Range， Restaurant Location Preference
+WOZ20027.json	1	There are results matching your query. Would you like Mexican, Italian, Chinese, or Indian?	Cuisine Options， Cuisine Preference Inquiry
+WOZ20027.json	2	Let's go with Italian food.	Cuisine Selection
+WOZ20027.json	3	Frankie and Bennys is an expensive Italian eatery in the south part of town. Would you like any additional information about this restaurant?	Restaurant Recommendation， Price and Location Confirmation， Additional Information Inquiry
+WOZ20027.json	4	address and phone number	Information Request
+WOZ20027.json	5	The address is Cambridge Leisure Park Clifton Way Cherry Hinton. The phone number is 01223 412430.	Restaurant Address， Restaurant Phone Number
+WOZ20027.json	6	Thank you, goodbye.	Gratitude Expression， Conversation Closure
+WOZ20027.json	7	You're welcome, goodbye.	Farewell Acknowledgment
+PMUL4827.json	0	Can you help me find an expensive Chinese food restaurant?	Restaurant Type Inquiry
+PMUL4827.json	1	What area would you like? There are nine results.	Area Preference Inquiry， Restaurant Options Notification
+PMUL4827.json	2	I'm interested in restaurants located in the East.	Location Preference
+PMUL4827.json	3	Okay, Yu Garden matches your specifications. Would you like me to book a reservation?	Restaurant Recommendation， Reservation Inquiry
+PMUL4827.json	4	Yeah, could you book it for 8 people on Monday? I think 16:15 is when we want to be seated.	Booking Request， Booking Day， Booking Time
+PMUL4827.json	5	The booking went through, your table is reserved for 15 minutes starting at 16:15. Reference number is BT75STQI .	Booking Confirmation， Reservation Details， Reference Number
+PMUL4827.json	6	Thanks! I'm also looking for a hotel near that restaurant.	Gratitude Expression， Hotel Inquiry
+PMUL4827.json	7	I would recommend the Express by Holiday Inn Cambridge, should I book it for you?	Hotel Recommendation， Booking Inquiry
+PMUL4827.json	8	If that has free wifi that'll work.	Hotel Amenity Inquiry
+PMUL4827.json	9	Yes, there is internet there. Would you like a booking then?	Amenity Confirmation， Booking Inquiry
+PMUL4827.json	10	Could you tell me the price, address and phone number?	Hotel Information Request
+PMUL4827.json	11	They are expensive and can be reached at 01223866800. The address is 15-17 norman way, coldhams business park. Anything else?	Hotel Price Informatio， Hotel Contact Informatio， Further Inquiry
+PMUL4827.json	12	No, that's all for me today! Thank you! Bye!	Final Confirmation， Gratitude and Farewell
+PMUL4827.json	13	I hope you have a wonderful stay.	Well Wishes
+PMUL3086.json	0	I am planning a vacation and really could use some help finding a good place to stay in town. I've never been to Cambridge before.	Accommodation Inquir， First-Time Visitor Context
+PMUL3086.json	1	which side of town do you prefer and what is the price range?	Location Preference Inquiry， Price Range Inquiry
+PMUL3086.json	2	It doesn't matter. What do you recommend?	Indifference to Specifics， Recommendation Request
+PMUL3086.json	3	alexander bed and breakfast is a guest house in the centre area. Would you like to book a room?	Accommodation Recommendation， Booking Inquiry
+PMUL3086.json	4	Oh, ok. I really don't want to stay at a guesthouse though. Can you recommend a hotel instead?	Accommodation Type Preference, Hotel Recommendation Request
+PMUL3086.json	5	The Huntingdon Marriott hotel is a very nice place.	Hotel Recommendation
+PMUL3086.json	6	Sounds good. Can you get me a room for 2 for 5 nights starting Sunday?	Hotel Booking Request, Number of Guests, Duration of Stay, Start Day
+PMUL3086.json	7	Booking was successful. Reference number is : 36N9VCAD . Is there anything else I can help with?	Booking Confirmation, Reference Number, Further Assistance Offer
+PMUL3086.json	8	What is the train schedule from birmingham new street like? I need to arrive at 13:45.	Train Schedule Inquiry, Arrival Time Requirement
+PMUL3086.json	9	Where would you like the train to arrive, and what time will you be leaving?	Destination Inquiry, Departure Time Inquiry
+PMUL3086.json	10	I need the travel day to be Sunday. I'll be going to Cambridge and arrive by 13:45. I'll be leaving from Birmingham New street.	Travel Day, Destination Confirmation, Arrival Time Confirmation, Departure Location
+PMUL3086.json	11	Train TR7468 will arrive at 13:23. Will this work for you?	Train Arrival Time, Travel Suitability Inquiry
+PMUL3086.json	12	What is the travel time on that train?	Travel Time Inquiry
+PMUL3086.json	13	It is 163 minutes on that train.	Travel Time Information
+PMUL3086.json	14	Excellent. Thanks for all the help!	Appreciation
+PMUL3086.json	15	You are quite welcome, thank you for using our services. Have we met all of your needs today?	Service Acknowledgment, Additional Assistance Inquiry
+PMUL3086.json	16	Yes, thanks very much! Have a great day!	Final Confirmation, Gratitude and Well Wishes
+PMUL3086.json	17	ok thanks and have a great day	Gratitude and Well Wishes
+PMUL3086.json	18	You too! Thanks so much for all the help. Please end the convo and read the directions next time. thanks	Gratitude and Directive
+PMUL3086.json	19	Keep the snarky comments to yourself.	Directive Response
+SNG0598.json	0	I'm looking to go to dinner tonight and am in the mood for some good Bistro in the centre of town, can you find me some options?	Dining Request, Time Reference
+SNG0598.json	1	I'm sorry. There is no matching restaurant. Would you like to try a different food type or area?	No Match Notification, Alternative Suggestion Inquiry
+SNG0598.json	2	Hmm... let me think. Let's try maybe something italian instead.	Cuisine Change
+SNG0598.json	3	There are nine Italian restaurants in the centre of town! Are you looking for an Italian restaurant in any particular price range?	Italian Restaurant Options, Price Range Inquiry
+SNG0598.json	4	Which of those nine has the best ratings? Can I please have the address and postcode.	Rating Inquiry, Information Request
+SNG0598.json	5	I recommend Caffe Uno - it's very nice. They're at 32 Bridge Street City Centre, cb21uj. Can I help with anything else?	Restaurant Recommendation, Restaurant Address and Postcode, Further Assistance Offer
+SNG0598.json	6	No, that's all. Thanks.	Final Confirmation, Gratitude Expression
+SNG0598.json	7	Thank you! Goodbye.	Gratitude and Farewell
+SNG01162.json	0	I am looking for a particular restaurant. Its name is called travellers rest	Restaurant Name Inquiry
+SNG01162.json	1	It is an expensive British restaurant on the west side of town. Would you like the address?	Restaurant Description, Address Inquiry
+SNG01162.json	2	Yes, and can you book a table for 1 at 14:15 on Monday, please.	Booking Request, Time, Date
+SNG01162.json	3	Ok. You're all set for Monday at 14:15. Have a great day.	Booking Confirmation
+PMUL1146.json	0	I'm wanting a train that leaves on Friday and goes to Cambridge.	Train Departure Day, Destination
+PMUL1146.json	1	Sure thing. What's your departure site and around what time would you like to leave?	Departure Site Inquiry, Time Preference Inquiry
+PMUL1146.json	2	I want to leave after 16:45, depart from Birmingham New Street.	Departure Time, Departure Location
+PMUL1146.json	3	The first train will leave at 17:40 and arrive at 20:23. Does that sound good?	Train Schedule, Arrival Time Inquiry
+PMUL1146.json	4	This time works fine for me.	Time Confirmation
+PMUL1146.json	5	You train has been booked, and the reference number is ZETNNFN0. You will owe 75.09 GBP when you arrive.	Booking Confirmation, Reference Number, Price Information
+PMUL1146.json	6	Thanks, I'm also looking for some museums.	Museum Inquiry
+PMUL1146.json	7	We have lots of wonderful museums. Is there a particular area of the town you would like to find one in?	Area Preference Inquiry for Museum
+PMUL1146.json	8	Yes, do you have any in the centre?	Museum Location Preference
+PMUL1146.json	9	There's 11 museums in the centre is there a type of museum you'd like to visit?	Museum Type Inquiry
+PMUL1146.json	10	Anyone of those would work. Could you recommend something for me? I'll need the phone number, and address as well.	Museum Recommendation Request, Contact Information Request
+PMUL1146.json	11	The broughton house gallery is very nice and the phone number is 01223314960 and the address is 98 king street.	Museum Recommendation, Contact Information
+PMUL1146.json	12	What area is it in?	Museum Location Inquiry
+PMUL1146.json	13	It is in the centre.	Museum Location Confirmation
+SSNG0018.json	0	Heya, can you find me an expensive restaurant with North African food?	Cuisine Type, Price Range
+SSNG0018.json	1	I actually cannot find any expensive restaurants with north african food. There is however an expensive restaurant with african food. Would that be okay?		Alternative Cuisine Suggestion
+SSNG0018.json	2	Are there any expensive restaurants with gastropub food?	Alternative Cuisine Inquiry
+SSNG0018.json	3	Yes, I have 3. Two are located in the centre and one is located in the east. Do you have a preference?	Restaurant Options, Location Preference Inquiry
+SSNG0018.json	4	Yes, the one in the east please.	Location Selection
+SSNG0018.json	5	One in the East is called Royal Standard. Can I book a table for you?	Restaurant Recommendation, Booking Inquiry
+SSNG0018.json	6	Yes, please book it for 2 people at 13:45 on Monday.	Booking Request, Time, Date, Number of People
+SSNG0018.json	7	I'm sorry that isn't available. Can I try a different restaurant for you?	Unavailability Notification, Alternative Booking Inquiry
+SSNG0018.json	8	No thank you that will be all.	Refusal, Conversation Closure
+SSNG0018.json	9	Is there anything else I can assist you with?	Additional Assistance Inquiry
+SSNG0018.json	10	That was all thank you.	Final Confirmation
+SSNG0018.json	11	Thank you. Goodbye	Gratitude and Farewell
+MUL2293.json	0	I'm planning a trip to Cambridge and I was told the A and B Guest House was a great place to stay. Can you give me information about it?	Accommodation Inquiry
+MUL2293.json	1	Absolutely! This is a moderately priced guest house with four stars. There is wifi included. It is located on the east. What else can I help with?	Accommodation Description, Amenities, Location
+MUL2293.json	2	Do you have free parking? I refuse to pay for parking in a hotel that I am staying at. Wouldn't you agree?	Parking Inquiry, Personal Opinion
+MUL2293.json	3	Yes, I would as a matter of fact. And yes, they offer free parking.	Parking Confirmation, Personal Opinion Acknowledgment
+MUL2293.json	4	Okay, sounds good. Also, I need to get a train from Liverpool Street to Cambridge.	Train Travel Inquiry
+MUL2293.json	5	What day would you like to make this trip? Do you have any other specifications?	Travel Date Inquiry, Additional Specifications Inquiry
+MUL2293.json	6	Oh wait, you know what? I forgot to ask about star ratings. What's the star rating on the A and B Guest House, please?	Star Rating Inquiry
+MUL2293.json	7	It has four stars. Would you still like information on the train?	Star Rating Confirmation, Train Information Inquiry
+MUL2293.json	8	The train should leave after 12:45 and should leave on Friday. For 2 people please book.	Train Booking Request, Time, Date, Number of People	
+MUL2293.json	9	TR5015 leaves London Liverpool Street at 13:39 and arrives at Cambridge by 15:07. Would this work for you?	Train Schedule, Arrival Time Inquiry
+MUL2293.json	10	Does that train leave on Friday?	Travel Date Inquiry
+MUL2293.json	11	Yes, that train leaves on Friday.	Travel Date Confirmation
+MUL2293.json	12	I need two tickets.	Ticket Quantity Request
+MUL2293.json	13	Okay, two tickets are booked, for a total price of 33.2 GBP, and your reference number is MY04HJ0A, do you need anything else today?	Booking Confirmation, Price Information, Reference Number
+MUL2293.json	14	No thanks, that is everything.	Final Confirmation
+MUL2293.json	15	Thanks for using our system!	Gratitude Expression
+PMUL1586.json	0	I need a train to go from Cambridge to Norwich.	Train Route Request
+PMUL1586.json	1	What day of the week are you looking to travel?	Travel Day Inquiry
+PMUL1586.json	2	I am traveling on Sunday	Travel Day Confirmation
+PMUL1586.json	3	What time would you like to leave or arrive by?	Departure/Arrival Time Inquiry
+PMUL1586.json	4	I would like to arrive by 13:45.	Arrival Time Preference
+PMUL1586.json	5	I have the TR7438 that will arrive at 12:55. Would you like a booking made today?	Train Option, Booking Inquiry
+PMUL1586.json	6	I would like to book that train for 4 people please.	Train Booking Request
+PMUL1586.json	7	7G6OJ8G2 is your confirmation code. May I help you further?	Booking Confirmation, Further Assistance Inquiry
+PMUL1586.json	8	Yeah, I'm also looking for a place to stay. I don't like hotels, so a guesthouse would be better. Moderate in price.	Accommodation Preference, Price Range
+PMUL1586.json	9	There are several moderate priced guesthouses do you have a preferred area that you want to stay in?	Area Preference Inquiry
+PMUL1586.json	10	Yes, the hotel should be in the east and doesn't need to have free parking.	Location Preference, Parking Requirement
+PMUL1586.json	11	A and B guest house is a guesthouse in the east and it is moderate. Shall I book it?	Accommodation Recommendation, Booking Inquiry
+PMUL1586.json	12	Can I have the star rating and if they have wi-fi?	Amenities Inquiry
+PMUL1586.json	13	The star rating is 4 and they do have free wifi.	Amenities Information
+PMUL1586.json	14	OK, that's all I need for now. Thanks.	Final Confirmation
+PMUL1586.json	15	Great. I hope you have an excellent day.	Well Wishes
+PMUL1586.json	16	Thanks, you too. Goodbye	Gratitude and Farewell
+PMUL1586.json	17	Great! Have a good day.	Well Wishes
+SNG0039.json	0	Good day. Might you be able to assist me with a taxi going to Corpus Christi leaving sometime after 08:45?	Taxi Booking Request, Destination, Departure Time Preference
+SNG0039.json	1	Sure I can do that! Where is the departure site?	Departure Site Inquiry
+SNG0039.json	2	I need it to pick me up from Gourmet Burger Kitchen.	Pickup Location
+SNG0039.json	3	The car coming is a White Tesla with contact number is: 07441094025	Car Description, Contact Number
+SNG0039.json	4	Thank you so much.	Gratitude Expression
+SNG0039.json	5	Is there anything else I can help you with today?	Further Assistance Inquiry
+SNG0039.json	6	Nope, that will do it, thanks!	Final Confirmation
+SNG0039.json	7	You're welcome. Have a great trip!	Farewell and Well Wishes
+SSNG0142.json	0	I am looking for a restaurant.	Restaurant Inquiry
+SSNG0142.json	1	Is there a price range or type of food that you would prefer?	Price Range and Cuisine Preference Inquiry
+SSNG0142.json	2	Not sure of that, I am looking for a restaurant named "ask."	Specific Restaurant Inquiry
+SSNG0142.json	3		That is an Italian restaurant located in the centre of town. It is at 12 Bridge Street. Can I call and reserve a table for you?		Restaurant Information, Location, Booking Inquiry
+SSNG0142.json	4	I would like to book a table for 5 people on Sunday at 14:15	Booking Request
+SSNG0142.json	5	I am afraid that booking was unsuccessful. Would you like to try another restaurant?	Booking Unavailability, Alternative Restaurant Inquiry
+SSNG0142.json	6	Yes, a different restaurant in the same area and with the same price range.	Alternative Restaurant Request
+SSNG0142.json	7	Yes there are 15 restaurants that are a similar price range. Did you still want Italian?	Restaurant Options, Cuisine Inquiry
+SSNG0142.json	8	Type of food doesn't matter. Which is the best one? I'll book that.	Restaurant Preference, Booking Decision
+SSNG0142.json	9	Your reservation is at the Dojo Noodle Bar at Millers Yard. The reference number is W87AKIBY and the table will be held for 15 minutes. Is that all?		Booking Confirmation, Restaurant Recommendation
+SSNG0142.json	10	That is all. Thank you!	Final Confirmation, Gratitude Expression
+SSNG0142.json	11	Thank you for calling. Enjoy your dining experience.	Gratitude, Well Wishes	
+SNG01795.json	0	I'm looking for a train please.	Train Inquiry
+SNG01795.json	1	Where are you leaving from and where would you like to go?	Departure and Destination Inquiry
+SNG01795.json	2	I plan to leave from Stevenage to go to Cambridge.	Departure and Destination Specification
+SNG01795.json	3	Okay. There are 70 trains that go from Stevenage to Cambridge. Would you like to narrow it down by day or time?	Train Options, Time/Day Preference Inquiry
+SNG01795.json	4	I want to leave on Sunday and arrive by 12:15.	Travel Day, Arrival Time Preference
+SNG01795.json	5	TrainID departure destination day leaveAt arriveBy price duration book (optional) TR1542 stevenage cambridge sunday 05:54 06:43 10.24 pounds 49 minutes TR5870 stevenage cambridge sunday 07:54 08:43 10.24 pounds 49 minutes TR7802 stevenage cambridge sunday 09:54 10:43 10.24 pounds 49 minutes TR8225 stevenage cambridge sunday 11:54 12:43 10.24 pounds 49 minutes are the opitions	
+SNG01795.json	6	Thank you, I will check them out and get back to you.		Train Options, Schedule
+SNG01795.json	6	Thank you, I will check them out and get back to you.	Acknowledgment, Intent to Review Options
+SNG01795.json	7	You are welcome. Call back anytime you are ready to book.	Invitation to Call Back for Booking
+SNG01795.json	8	That information is very overwhelming. Can you please pick the best option that meets my criteria and book for 6 people.	Request for Recommendation, Group Booking Request
+SNG01795.json	9	I would like to book the TR7802 Stevenage Cambridge Sunday 09:54 10:43, please.	Specific Train Booking Request
+SNG01795.json	10	I think you're confused. I need the info, you're the help desk.	Clarification Request
+SNG01795.json	11	I apologize for the mistake. I have booked six tickets for you and your party on the TR7802 train departing from Stevenage at 09:54 and arriving at Cambridge at 10:43.		Booking Confirmation, Apology
+SNG01795.json	12	That's more like it. And, what's the reference number?	Reference Number Inquiry
+SNG01795.json	13	Your reference number is DDBA2U1R . The total fee is 61.44 GBP payable at the station. May I help with something else?		Booking Reference, Price Information
+SNG01795.json	14	That was all. Thank you	Final Confirmation, Gratitude
+SNG01795.json	15	Thanks for using our services.	Service Appreciation
+PMUL4433.json	0	I need to get a train going to Stevenage.	Train Destination Inquiry
+PMUL4433.json	1	I will need some more information. The train is departing from Cambridge correct? What day would you like to leave?	Departure Location Confirmation, Travel Day Inquiry
+PMUL4433.json	2	Yes, departing from Cambridge. We'll be leaving on Tuesday, hopefully after 15:15.	Departure Location Confirmation, Travel Day and Time Preference
+PMUL4433.json	3	How about TR5343? It leaves at 15:21. Your next choice is TR9883 which leaves at 17:21.	Train Options
+PMUL4433.json	4	What is the price for TR5343?	Price Inquiry for Specific Train
+PMUL4433.json	5	It is 12.80 pounds.	Price Information
+PMUL4433.json	6	I would like information on pools in the north.	Pool Information Inquiry
+PMUL4433.json	7	Jesus Green Outdoor Pool and Kings Hedges Learner Pool are in that area. Could I get you info on one of those?	Pool Options, Additional Information Inquiry
+PMUL4433.json	8	How about Jesus Green Outdoor Pool. Could I have their address and phone number?	Specific Pool Selection, Contact Information Request
+PMUL4433.json	9	Sure, the phone number for jesus green outdoor pool is 01223302579. The address is listed as between victoria road and the river.		Pool Contact Information
+PMUL4433.json	10	Thanks! That's all I need now	Final Confirmation, Gratitude
+PMUL4433.json	11	Is there any other info or booking I can do?	Further Assistance Inquiry
+PMUL4433.json	12	No, not at this time. Thank you.	No Further Assistance Needed, Gratitude
+PMUL4433.json	13	Okay, glad I could help.	Assistance Acknowledgment
+SNG1116.json	0	I am getting ready to go off to college. I thought while I was in town maybe I could visit one.	College Visit Inquiry
+SNG1116.json	1	Great idea! There are 18 entries found! What area of town would you like to visit?	Area of Town Inquiry
+SNG1116.json	2	I think I'd like to visit the centre.	Area Preference
+SNG1116.json	3	There are 13 colleges in the city center but I recommend visiting Downing College and it is free to get in.	College Recommendation, Free Admission Information
+SNG1116.json	4	Great! Can I have the address, please?	Address Request
+SNG1116.json	5	Sure, it's located at Regent Street.	Address Information
+SNG1116.json	6	Great, thank you very much. That's all I need.	Gratitude, Final Confirmation
+SNG1116.json	7	You're welcome. Have a great day!	Well Wishes
+SNG1165.json	0	I am looking for a high priced hotel in the north side of town	Hotel Price and Location Inquiry
+SNG1165.json	1	I'm sorry, but there aren't any places that meet those qualifications. Would you like to try a different part of town?		Non-Availability Notification
+SNG1165.json	2	How about an expensive hotel in the south side of town?	Alternative Location Inquiry
+SNG1165.json	3	There is one option, it is The Lensfield Hotel. Do you want me to reserve any rooms for you?	Hotel Recommendation, Booking Inquiry
+SNG1165.json	4	Does it offer free wifi?	Amenity Inquiry (Free Wifi)
+SNG1165.json	5	Yes, the Lensfield Hotel does have free wifi.	Amenity Confirmation 
+SNG1165.json	6	How about free parking, does it have that as well?	Amenity Inquiry 
+SNG1165.json	7	Yes, it also has free parking. Anything else today?	Amenity Confirmation, Further Assistance Inquiry
+SNG1165.json	8	Book it for 7 people and 3 nights starting from Monday.	Booking Request
+SNG1165.json	9	The booking was successful. Your reference number is 81E1ITXC . Is there anything else I can help with today?		Booking Confirmation, Reference Number
+SNG1165.json	10	No, that is all I need. Thank you for your time.	Final Confirmation, Gratitude
+SNG1165.json	11	We appreciate you using our services. Have a good day.	Service Appreciation, Well Wishes
+PMUL3460.json	0	Hi, what can you tell me about the Bangkok City restaurant?	Restaurant Information Inquiry
+PMUL3460.json	1	Sure! It serves Thai food and is located in the centre. Would you like to book it?	Cuisine and Location Information, Booking Inquiry
+PMUL3460.json	2	Yes for 2 at 19:30 on Sunday please. I need the reference number then too.	Booking Request, Time, Number of People, Reference Number Inquiry
+PMUL3460.json	3	I've booked that for you and your reference number is X4W3U0LM.	Booking Confirmation, Reference Number
+PMUL3460.json	4	I'd also need a train leaving the centre going to King's Lynn and arriving by 17:00 on Monday.	Train Schedule Inquiry
+PMUL3460.json	5	I can certainly help with that. Could you just verify your departure point for me?	Departure Location Confirmation
+PMUL3460.json	6	Yes, it should depart from Cambridge.	Departure Location Specification
+PMUL3460.json	7	The earliest arrives by 17:58	Train Arrival Time Information
+PMUL3460.json	8	Ok, I think that should be fine. Can you make a booking for me?	Booking Agreement, Booking Request
+PMUL3460.json	9	Sorry, the arrival time is actually 16:58. How many tickets would you like?	Corrected Arrival Time, Ticket Quantity Inquiry
+PMUL3460.json	10	I need tickets for the same group of people going to the restaurant with me.	Group Ticket Quantity Specification
+PMUL3460.json	11	I have booked train TR2324. The total fee is 19.6 GBP which is payable at the station...	Train Booking Confirmation, Price Information
+PMUL3460.json	12	Thank you so much.	Gratitude Expression
+PMUL3460.json	13	Is there anything else I can help you with?	Further Assistance Inquiry
+PMUL3460.json	14	No that is it. Thank you so much.	Final Confirmation, Gratitude
+PMUL3460.json	15	Well we are here to help. Enjoy your time here!	Service Assurance, Well Wishes
+PMUL3460.json	16	Thank you for your assistance.	Gratitude for Assistance
+PMUL3460.json	17	Thank you for calling. I hope you enjoy your trip. Goodbye.	Farewell and Well Wishes
+PMUL2583.json	0	I'm looking for a hotel, can you help?	Hotel Inquiry
+PMUL2583.json	1	I can, we have 9 hotels, do you have anything else to narrow it down?	Hotel Options, Additional Criteria Inquiry
+PMUL2583.json	2	It should be in the centre and be on the expensive side.	Hotel Location and Price Preference
+PMUL2583.json	3	I have 2 available hotels. One is the Gonville Hotel located on Gonville Place. The other is University Arms Hotel on Regent Street. Which one would you like to book?		Hotel Options, Booking Inquiry
+PMUL2583.json	4	Can you book the one without wifi?	Specific Amenity Inquiry 
+PMUL2583.json	5	They both have internet, for what days and how many people should I book?	Booking Details Inquiry
+PMUL2583.json	6	Do either of them offer free wifi?	Free Wifi Inquiry
+PMUL2583.json	7	As previously mentioned, they both have internet available. I don't have specifications about the internet service however. Would you like to book one of these?		Free Wifi Confirmation, Booking Inquiry
+PMUL2583.json	8	Yes, please book for two nights beginning on Sunday for one person.	Specific Booking Request
+PMUL2583.json	9	Your booking was successful and the reference number is ELYPAXQZ.	Booking Confirmation, Reference Number
+PMUL2583.json	10	Thank you. I'm also looking for a museum to go to in the same area.	Museum Inquiry
+PMUL2583.json	11	There are 11 all with free entrance. Would you like me to recommend one?	Museum Options, Recommendation Inquiry
+PMUL2583.json	12	Yes, please. Can I get the address and phone number for the one you recommend?	Specific Museum Recommendation, Contact Information Request
+PMUL2583.json	13	castle galleries is a nice place, their address is unit su43 grande arcade st andrews st and their postcode is cb23bj, anything else today?		Museum Recommendation, Address Information
+PMUL2583.json	14	Do you have their phone number?	Phone Number Inquiry
+PMUL2583.json	15	Their phone is 01223307402. Is there anything else I can help you with today?	Phone Number Information, Further Assistance Inquiry
+PMUL2583.json	16	Yes, I also need a taxi going between the two places.	Taxi Booking Inquiry
+PMUL2583.json	17	What time do you need the taxi, and which is the destination site?	Taxi Booking Details Inquiry
+PMUL2583.json	18	I want to arrive at the Castle Galleries by 11:15.	Taxi Arrival Time and Destination
+PMUL2583.json	19	Your white ford taxi booking was successful. Its contact number is 07580691974.	Taxi Booking Confirmation, Contact Number
+PMUL2583.json	20	Ok, thank you for the help.	Gratitude Expression
+PMUL2583.json	21	Was there anything else you needed today?	Further Assistance Inquiry	
+MUL1914.json	0	I'm looking for a train.	Train Inquiry
+MUL1914.json	1	Let's start with where you are departing from and where you are going?	Departure and Destination Inquiry
+MUL1914.json	2	Departing from Ely to Cambridge.	Departure and Destination Specification
+MUL1914.json	3	There are quite a few trains from Ely to Cambridge. On what day will you be traveling, and at what time would you like to depart?	Travel Day and Time Inquiry
+MUL1914.json	4	It's on Tuesday. I need to arrive by 9:30 and need to book for 7 people. Could I also get the reference number too?	Travel Day, Arrival Time, Group Booking Request, Reference Number Inquiry
+MUL1914.json	5	Ok, I have booked you on TR6971 leaving Ely at 7:35, arriving at Cambridge by 7:52 for 7 people. Reference number AQRMT6Q9. Anything else I can help with?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+MUL1914.json	6	One more thing. Can you give me information about an attraction called Ruskin Gallery?	Attraction Inquiry
+MUL1914.json	7	It's a free museum in the city centre, located at Anglia Ruskin University, East Road. Anything else I can help with?	Attraction Information, Location
+MUL1914.json	8	What is the phone number for there?	Phone Number Inquiry
+MUL1914.json	9	Phone # is 01245493131. Anything else I can do for you?	Phone Number Information, Further Assistance Inquiry
+MUL1914.json	10	That was all I needed today. Thank you.	Final Confirmation, Gratitude
+MUL1914.json	11	You're welcome, have a nice day.	Gratitude and Well Wishes
+PMUL2097.json	0	Please find me a place to dine that's expensive and in the centre.	Dining Preference Inquiry
+PMUL2097.json	1	Fitzbillies restaurant is expensive in the centre of town. Would you like to try that?	Restaurant Recommendation, Booking Inquiry
+PMUL2097.json	2	I am looking for Thai food.	Specific Cuisine Inquiry
+PMUL2097.json	3	We have Bangkok City. It is located in 24 Green Street Centre. Can I give you the phone number?	Restaurant Recommendation, Contact Information Offer
+PMUL2097.json	4	Ok great. Can you reserve a table there for Thursday for 5 people at 15:00 please?	Reservation Request
+PMUL2097.json	5	It was successful. Reference number is: AKNPF1IH.	Reservation Confirmation, Reference Number
+PMUL2097.json	6	Thank you for your help.	Gratitude Expression
+PMUL2097.json	7	You're very welcome. Can I help you with anything else today?	Further Assistance Inquiry
+PMUL2097.json	8	Yes, a hotel please.	Hotel Inquiry
+PMUL2097.json	9	Okay. I can help you with that. Can you help me narrow the options down by providing preferences...	Hotel Preferences Inquiry
+PMUL2097.json	10	You know what? I don't need a hotel after all. I heard something about an attraction called Ballare, could you give me some information about it?	Attraction Inquiry, Change of Plans
+PMUL2097.json	11	Ballare is a nightclub located in the centre area. The phone is 01223364222 and the entrance fee is 5 pounds. Can I help you with anything else?	Attraction Information, Entrance Fee, Contact Information
+PMUL2097.json	12	That is everything. Thank you so much for your help.	Final Confirmation, Gratitude
+PMUL2097.json	13	You're welcome! Is there anything else I can help you with today - transportation perhaps, or other attractions?	Additional Assistance Offer
+PMUL2097.json	14	That is all I need.	Final Confirmation
+PMUL2097.json	15	Thanks for using the Cambridge booking service and have a great day.	Service Appreciation, Well Wishes
+PMUL0949.json	0	I'm looking for a particular restaurant called Ask. Please give me information on that restaurant.	Specific Restaurant Inquiry
+PMUL0949.json	1	Ask is an Italian place in the centre area, they are in the cheap price range. Can I help with anything else?	Restaurant Information, Further Assistance Inquiry
+PMUL0949.json	2	Yes, I'd like to book a table for 1 at 17:15 on Wednesday. Can you do that?	Booking Request
+PMUL0949.json	3	I was able to book that table for you. Your reference number should you need it, is DFEBH5D1. Can I help with anything else?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL0949.json	4	No. I think I am all set. Thanks.	Final Confirmation, Gratitude
+PMUL0949.json	5	You're very welcome, just let us know if we can help with anything else.	Service Offer	
+PMUL3847.json	0	What fun places can I visit in the East?	Fun Places Inquiry
+PMUL3847.json	1	We have five spots which include boating, museums and entertainment. Any preferences that you have?	Attraction Options, Preference Inquiry
+PMUL3847.json	2	I don't have a preference. Which place would you recommend?	Recommendation Request
+PMUL3847.json	3	I'm fond of the Cambridge Museum of Technology. Would you like more information on it?	Attraction Recommendation, Information Inquiry
+PMUL3847.json	4	What is the entrance fee?	Entrance Fee Inquiry
+PMUL3847.json	5	It is 5 pounds to get in.	Entrance Fee Information
+PMUL3847.json	6	Great, thanks! Can you help me find a train going into Cambridge as well?	Gratitude, Train Inquiry
+PMUL3847.json	7	I certainly can! Where would you be coming from and what day and time?	Train Departure, Day and Time Inquiry
+PMUL3847.json	8	I am leaving Birmingham New Street and going to Cambridge; I need to travel on Friday and arrive by 13:15.	Travel Details Specification
+PMUL3847.json	9	TR0497 arrives by 12:23. Would you like a ticket?	Train Option, Ticket Inquiry
+PMUL3847.json	10	Yes please. Book the train for 2 people. Please include the reference number.	Train Booking Request
+PMUL3847.json	11	Reference number is: PYPBSAXI. Is there anything else?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL3847.json	12	That's everything. Thanks again and have a great day!	Final Confirmation, Gratitude
+PMUL3847.json	13	Enjoy your trip! Have a great time!	Farewell and Well Wishes
+PMUL2710.json	0	Hi, I am traveling to Cambridge and am super excited to see some local tourist attractions...	Tourist Attraction Inquiry
+PMUL2710.json	1	There are 79 attractions in Cambridge. There are churches, museums, swimming pool, and many more attractions. What are you interested in doing?	Attraction Options, Preference Inquiry
+PMUL2710.json	2	Perhaps I'd like to see a museum. Are there any in the centre?	Museum Preference, Location Inquiry
+PMUL2710.json	3	There are 11 museums in the centre area. There is a science museum, an art and antiques museum and 9 others...	Museum Options, Type Inquiry
+PMUL2710.json	4	Does not matter can you just recommend one please.	General Museum Recommendation Request
+PMUL2710.json	5	Castle Galleries is a very nice museum in the centre, and their entrance fee is free!	Museum Recommendation, Free Admission
+PMUL2710.json	6	Excellent. Can I please have their phone number and address please?	Contact Information Request
+PMUL2710.json	7	They are located at unit su43, grande arcade, saint andrews street, cb23bj. You can reach them at 01223307402.	Address and Phone Number Information
+PMUL2710.json	8	Thank you. I am also needing help booking a guesthouse in the north part of town. Can you assist me with that?	Guesthouse Booking Inquiry
+PMUL2710.json	9	You're in luck. There are 11 guesthouses in the north. What amenities are you looking for?	Guesthouse Options, Amenities Inquiry
+PMUL2710.json	10	4 people for 5 nights starting Sunday and I also need the ref # too please	Booking Details, Reference Number Request
+PMUL2710.json	11	Ok great, we have you booked in the alpha-milton guest house at 63 milton road. Your Reference number is: KPUSMIB9. Thank you!	Booking Confirmation, Reference Number	
+WOZ20385.json	0	Hey, I'm up south can you give me a place to eat?	Dining Place Inquiry
+WOZ20385.json	1	What kind of food would you like?	Cuisine Preference Inquiry
+WOZ20385.json	2	Don't care.	No Cuisine Preference
+WOZ20385.json	3	I recommend Chiquito Restaurant Bar	Restaurant Recommendation
+WOZ20385.json	4	Can I have the address and telephone number?	Contact Information Request
+WOZ20385.json	5	Chiquito Restaurant Bar is located at 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton. The phone number is 01223 400170.	Address and Phone Number Information
+WOZ20385.json	6	THAT WILL BE FINE.	Dining Agreement
+WOZ20385.json	7	You're welcome, goodbye.	Farewell	
+PMUL0172.json	0	I will be staying in Cambridge. I need a hotel with wifi.	Hotel Inquiry, Wifi Requirement
+PMUL0172.json	1	What about a and b guest house? It's in the East.	Hotel/Guesthouse Recommendation
+PMUL0172.json	2	I need something in the centre.	Location Preference 
+PMUL0172.json	3	There are 7 hotels which area do you prefer?	Hotel Options, Area Preference Inquiry
+PMUL0172.json	4	The north part of town	Area Specification
+PMUL0172.json	5	I ran a search in the north, there's 12 choices. Let's make sure we're on the same page...	Hotel Options, Clarification Request
+PMUL0172.json	6	Sorry, I've been all over the place. To be clear, I need a hotel with free wifi and parking that is in the centre.	Specific Requirements
+PMUL0172.json	7	Shall I choose a hotel for you, or do you have a preference? 4 hotels have free parking and internet in that area.	Hotel Choice Inquiry, Amenities Confirmation
+PMUL0172.json	8	Yes please recommend one. The booking is needed for Saturday. 3 nights, 6 people	Booking Request, Date and Duration, Number of People
+PMUL0172.json	9	May I recommend Alexander Bed and Breakfast. While it is a cheap guesthouse in the centre...	Accommodation Recommendation
+PMUL0172.json	10	Ok great. Can you book a room for 6 people and 3 nights starting from Saturday.	Booking Request
+PMUL0172.json	11	Booking was successful. Reference number is: QK6KCZQA	Booking Confirmation, Reference Number
+PMUL0172.json	12	Great, thank you. I'm also in need of an Indian restaurant in the cheap price range...	Restaurant Inquiry
+PMUL0172.json	13	We have several. What part of town are you thinking?	Restaurant Location Inquiry
+PMUL0172.json	14	Any will do, whatever you recommend.	General Recommendation Request
+PMUL0172.json	15	Royal Spice is located in the north. It's one of my personal favorites. Would you like me to make reservations for you?	Restaurant Recommendation, Booking Inquiry
+PMUL0172.json	16	I certainly want to try it then. Please book for 6 people at 11:30 on Saturday.	Restaurant Booking Request
+PMUL0172.json	17	You have been booked at the Royal Spice. Your reference number is WSPAI5JJ. Can I be of further assistance today?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL0172.json	18	Thank you. I am all set.	Final Confirmation, Gratitude
+PMUL0172.json	19	Great! And you're welcome, have a great day!	Farewell, Well Wishes
+PMUL3867.json	0	Can you assist me in finding me an Expensive Restaurant in Cambridge where I can dine? The restaurant should be serving British foods.	Restaurant Inquiry, Cuisine Type
+PMUL3867.json	1	Sure, I have 6 options for you	Restaurant Options Notification
+PMUL3867.json	2	I'd like it to be in Centre.	Location Preference
+PMUL3867.json	3	I would suggest Midsummer House Restaurant, it has great food.	Restaurant Recommendation
+PMUL3867.json	4	Can you make me a reservation for Saturday please for 3 people?	Reservation Request
+PMUL3867.json	5	What time would you like to dine on Saturday?	Dining Time Inquiry
+PMUL3867.json	6	We will be dining at 16:30. Please book a table for 3 on Saturday and provide the reference number. I also need a hotel in the same area.	Reservation Details, Hotel Inquiry
+PMUL3867.json	7	Alright, I have your restaurant booking. Your reference number is: DHDB0H4V. What are you looking for in a hotel, so I can narrow down the choices?	Restaurant Booking Confirmation, Hotel Preferences Inquiry
+PMUL3867.json	8	Something in the same area as the restaurant. It should also be in that same price range.	Hotel Location and Price Preference
+PMUL3867.json	9	I've got two expensive hotels in the area. Both have internet and parking. University Arms Hotel has 4 stars. Does that meet your needs?	Hotel Options, Amenities Information
+PMUL3867.json	10	Yes, that should be perfect thank you.	Hotel Selection Confirmation
+PMUL3867.json	11	Would you like me to book you a room? If so, I will need how many people and nights you will be staying and on what day.	Room Booking Inquiry
+PMUL3867.json	12	I would like a room for three people, just for Saturday night.	Room Booking Details
+PMUL3867.json	13	The booking was successful. I have a reference number and the hotel number for you.	Booking Confirmation, Reference Number
+PMUL3867.json	14	Can I have the postcode and hotel type, please?	Postcode Request, Hotel Type Inquiry
+PMUL3867.json	15	It is the type of a hotel. Its postcode is cb21ad. Anything else?	Postcode Information, Further Assistance Inquiry
+PMUL3867.json	16	I also need a taxi between the hotel and the restaurant.	Taxi Booking Inquiry
+PMUL3867.json	17	I will look a taxi up for you.	Taxi Search Confirmation
+PMUL3867.json	18	Thank you very much! Can you please make sure that it arrives at the restaurant by the time of my reservation?	Taxi Timing Request
+PMUL3867.json	19	A grey Toyota will be waiting to pick you up, if you have any further questions the contact number is 07137847685.	Taxi Booking Confirmation, Contact Information
+PMUL3867.json	20	Thanks so much!	Gratitude Expression
+PMUL3867.json	21	Can I help you with anything else today?	Further Assistance Inquiry
+PMUL3867.json	22	No, that will be all. Thank you!	Final Confirmation, Gratitude
+PMUL3867.json	23	Thanks for using our service, good day!	Farewell, Service Appreciation
+PMUL3867.json	24	Thanks for all the help.	Gratitude Expression
+PMUL3867.json	25	Anytime, we're here to help. Have a good day!	Service Assurance, Well Wishes
+SNG01373.json	0	I need a taxi to Don Pasquale Pizzeria.	Taxi Request, Destination
+SNG01373.json	1	When would you like to arrive?	Arrival Time Inquiry
+SNG01373.json	2	I would like to arrive at one o'clock p.m. because I am meeting my husband there when he goes on his lunch break.	Specific Arrival Time, Reason for Trip
+SNG01373.json	3	Ok, where are you departing from?	Departure Location Inquiry
+SNG01373.json	4	I will be departing from Finches Bed and Breakfast.	Departure Location Specification
+SNG01373.json	5	Alright. I have a white Honda for you.	Taxi Confirmation, Car Description
+SNG01373.json	6	Great, thanks. Is there a contact number for the driver by any chance?	Driver Contact Number Inquiry
+SNG01373.json	7	That number is 07303450247.	Driver Contact Number Information
+SNG01373.json	8	Thank you very much. Will they be contacting me?	Contact Procedure Inquiry
+SNG01373.json	9	They will only contact you if they cannot find you. Thank you.	Contact Procedure Information
+SNG01373.json	10	Thank you I will be watching the white Honda then.	Acknowledgment, Taxi Confirmation
+SNG01373.json	11	Sounds good. Have a great night!	Farewell, Well Wishes	
+PMUL3555.json	0	I am planning a trip in Cambridge.	Trip Planning Inquiry
+PMUL3555.json	1	I am glad that you are visiting, but I cannot help you until you give me something to search for?	Request for Specific Inquiry
+PMUL3555.json	2	I'm looking for a train from Cambridge to Leicester on Monday.	Train Inquiry, Departure, Destination, Date
+PMUL3555.json	3	We have quite a few trains available that day. Is there any time you would like to depart or arrive by?	Train Options, Time Preference Inquiry
+PMUL3555.json	4	I need to leave after 21:45	Departure Time Specification
+PMUL3555.json	5	TR2919 is leaving at 22:21, would that work?	Train Option Proposal
+PMUL3555.json	6	Yes, could you book me 2 tickets and get me a reference number?	Train Booking Request
+PMUL3555.json	7	Absolutely. I have booked two tickets for TR2919 at a total fee of 75.59 GBP. Your reference number is 8BG1O6W0. Is there anything else I can assist you with?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL3555.json	8	Yes, I also need a hotel with free wi-fi. I do not mind if it is expensive.	Hotel Inquiry, Amenities Preference
+PMUL3555.json	9	How about Allenbell? It looks lovely	Hotel Recommendation
+PMUL3555.json	10	Does it have free parking?	Parking Inquiry
+PMUL3555.json	11	Allenbell has free parking. Should I book it?	Parking Confirmation, Booking Inquiry
+PMUL3555.json	12	Yes, I need it for Thursday. 2 people 4 nights.	Hotel Booking Details
+PMUL3555.json	13	Your all set! Reference # is DQ0Z16N7. Anything else I can help you with today?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+PMUL3555.json	14	That is all I need.	Final Confirmation
+PMUL3555.json	15	Have a great day!	Well Wishes
+SNG01958.json	0	Hi, I am trying to find the police station that's closest to my location please.	Police Station Location Inquiry
+SNG01958.json	1	The nearest police station is in Parkside, Cambridge, CB11JG	Police Station Location Information
+SNG01958.json	2	Thanks, what is their phone number?	Phone Number Inquiry
+SNG01958.json	3	Telephone: 01223358966 there you go	Phone Number Information
+SNG01958.json	4	Thank you, that is all I need today.	Final Confirmation
+SNG01958.json	5	Best of luck with everything and enjoy your day.	Well Wishes
+SNG0935.json	0	I live in the centre of town and want to see if I can find a reasonable room for my parents to stay while they are visiting.	Accommodation Inquiry, Location Specification
+SNG0935.json	1	How about the Alexander bed and breakfast in the centre? It is a cheap 4-star guesthouse with free internet and wifi.	Accommodation Recommendation
+SNG0935.json	2	That sounds like it might work. Could you check availability for two people this weekend?	Availability Inquiry, Number of Guests
+SNG0935.json	3	What day are they arriving, and how many nights are they staying?	Arrival Date, Duration Inquiry
+SNG0935.json	4	I am unsure at this time.	Uncertainty Confirmation
+SNG0935.json	5	Okay, would you like some more information about that hotel?	Information Request
+SNG0935.json	6	Can you tell me what the address is?	Address Inquiry
+SNG0935.json	7	The address is 56 Saint Barnabas Road.	Address Information
+SNG0935.json	8	Does this place include free parking?	Parking Inquiry
+SNG0935.json	9	The Alexander bed and breakfast is a cheap, 4-star guesthouse in the centre area, it has wifi and parking. Does this fit your needs?	Accommodation Features Confirmation
+SNG0935.json	10	You have been very helpful. I have everything I need, thanks. Bye	Gratitude, Final Confirmation
+SNG0935.json	11	I am glad to help. Have a nice day. Bye.	Farewell, Well Wishes	
+PMUL3529.json	0	I am looking for information in Cambridge. I need a place to dine.	Dining Inquiry
+PMUL3529.json	1	Sure, do you have a type of food you are wanting?	Cuisine Preference Inquiry
+PMUL3529.json	2	Crossover food would be perfect.	Specific Cuisine Request
+PMUL3529.json	3	Unfortunately, there aren't any crossover restaurants in Cambridge. Is there something else you'd like to try?	Non-Availability Information
+PMUL3529.json	4	Is there a gastropub in Centre?	Gastropub Inquiry
+PMUL3529.json	5	Yes, I have two that are expensive and one that is moderately priced. Do you have a preference?	Gastropub Options, Price Preference Inquiry
+PMUL3529.json	6	Let's go with the moderately priced option. Can I please have the phone number?	Gastropub Selection, Contact Information Request
+PMUL3529.json	7	In the moderate price range, I have one place. It's called the Cow Pizza Kitchen and Bar. It's located on Corn Exchange Street. Do you need a reservation?	Gastropub Recommendation, Location Information, Reservation Inquiry	
+PMUL3529.json	8	Not right now, but I am looking for a place to stay. Are there any 5-star accommodations in Cambridge?	Accommodation Inquiry, Star Rating Inquiry
+PMUL3529.json	9	I'm sorry, there are no 5-star accommodations anywhere in Cambridge. There are many 4-star options. Would you like to try one of those?	Accommodation Availability, Alternative Recommendation
+PMUL3529.json	10	Do you have one with free parking	Parking Amenities Inquiry
+PMUL3529.json	11	Yes, the Allenbell does.	Accommodation Confirmation, Parking Availability
+PMUL3529.json	12	Is the Allenbell a guesthouse?	Accommodation Type Inquiry
+PMUL3529.json	13	Yes, it is a guesthouse. It's located at 517a Coldham Lane. Would you like me to book this for you?	Accommodation Type Confirmation, Location Information, Booking Inquiry
+PMUL3529.json	14	No thank you that will be all	Booking Decline, Final Confirmation
+PMUL3529.json	15	Is there anything further that I can assist you with today?	Further Assistance Inquiry
+PMUL3529.json	16	Yes, I'll need a taxi from the restaurant to the hotel. I want to leave the restaurant by 18:30.	Taxi Booking Request
+PMUL3529.json	17	Sure. I booked a black BMW for you. Contact number: 07568490583	Taxi Booking Confirmation, Contact Information
+PMUL3529.json	18	Thank you so much.	Gratitude Expression
+PMUL3529.json	19	You're very welcome! Is there anything else I can help you with?	Further Assistance Offer
+PMUL3529.json	20	No thank you! Thanks for your help! Bye!	Final Confirmation, Gratitude
+PMUL3529.json	21	Excellent, have a great day!	Farewell, Well Wishes
+PMUL1576.json	0	I really need to get out of Cambridge! Can you find me a train to Leicester?...	Train Inquiry, Departure, Destination
+PMUL1576.json	1	I would be happy to help with your request, what day will you be leaving?	Departure Day Inquiry
+PMUL1576.json	2	I'll be leaving this place on Saturday.	Departure Day Confirmation
+PMUL1576.json	3	What time would you like to arrive by?	Arrival Time Preference Inquiry
+PMUL1576.json	4	It does not matter.	No Specific Arrival Time
+PMUL1576.json	5	There is a train that leaves at 9:21 and arrives in Leicester at 11:06. Would you like me to book it for you?	Train Schedule Information, Booking Inquiry
+PMUL1576.json	6	No thank you. What's the cost of the ticket?	Ticket Cost Inquiry
+PMUL1576.json	7	The ticket price is 30.24 pounds. Can I be of further assistance?	Ticket Price Information, Further Assistance Inquiry
+PMUL1576.json	8	I also need the travel time and arrival time please.	Travel and Arrival Time Inquiry
+PMUL1576.json	9	Arrival time is 11:06 and travel time is 105 minutes	Travel and Arrival Time Information
+PMUL1576.json	10	I'm also looking for a particular hotel. Its name is called cityroomz.	Hotel Inquiry
+PMUL1576.json	11	Sure, what kind of information do you need?	Information Request
+PMUL1576.json	12	I'd like to book it for 8 people and 4 nights starting from Tuesday	Booking Request
+PMUL1576.json	13	I have booked a room for 8 for 4 nights beginning on Tuesday. Your reference number is SY5AJ8CL. Is there anything else I can help you with today?	Booking Confirmation, Reference Number
+PMUL1576.json	14	Not at this time. Thank you.	Final Confirmation
+PMUL1576.json	15	Have a fantastic day, goodbye.	Farewell
+SNG0143.json	0	Hello, I need information on the Parkside Police Station.	Police Station Information Inquiry
+SNG0143.json	1	The phone number for Parkside Police Station is 01223358966, address Parkside, Cambridge, CB11JG.	Contact and Location Information
+SNG0143.json	2	Amazing, thanks for your help	Gratitude Expression
+SNG0143.json	3	Do you want me to call 911?	Emergency Contact Inquiry
+SNG0143.json	4	No, that's ok. I've got it. Thanks again.	Decline Assistance, Gratitude
+SNG0143.json	5	Let us know if you need more help.	Offer for Further Assistance	
+PMUL2676.json	0	I would like to find a cheap hotel to stay at where there is free parking. Do you have any suggestions?	Hotel Inquiry, Price Range, Parking Requirement
+PMUL2676.json	1	The Cambridge Belfry fits the bill, would you like me to book you a room?	Hotel Recommendation, Booking Inquiry
+PMUL2676.json	2	Do they have free parking? Are they rated 3 stars?	Parking Inquiry, Star Rating Inquiry
+PMUL2676.json	3	Yes, they do have free parking and they have 4 stars.	Parking Confirmation, Star Rating Information
+PMUL2676.json	4	Did you have something that fits with 3 stars?	Alternative Hotel Inquiry
+PMUL2676.json	5	I have no listing for a 3-star hotel, would you like to try another area?	Non-Availability Information, Alternative Area Inquiry
+PMUL2676.json	6	What about a 4-star hotel?	Four-Star Hotel Inquiry
+PMUL2676.json	7	The Cambridge Belfry is a 4-star hotel in the cheap price range and is on the west side... Would you like a reservation?	Hotel Confirmation, Location, Amenities Information, Booking Inquiry
+PMUL2676.json	8	Yes, please book for 5 people for 5 nights starting on Thursday.	Booking Request
+PMUL2676.json	9	I am unable to book for Tuesday.	Booking Inability Confirmation
+PMUL2676.json	10	I would like to book for Thursday, not Tuesday.	Corrected Booking Request
+PMUL2676.json	11	I am sorry, I can't make that reservation either.	Booking Inability Confirmation
+PMUL2676.json	12	Is Monday available?	Alternative Date Inquiry
+PMUL2676.json	13	As it turns out, Thursday just opened up. I was able to book it for you, here is your reference number, UGU8T7UB.	Booking Confirmation, Reference Number
+PMUL2676.json	14	Thanks! Can you also help me find a college to visit in town?	College Visit Inquiry
+PMUL2676.json	15	There are 18 options. Was there a part of town you would like to visit?	College Options, Area Preference Inquiry
+PMUL2676.json	16	Can you suggest one for me?	College Recommendation Request
+PMUL2676.json	17	I would recommend Christ's College in Saint Andrew's Street in the centre of town.	College Recommendation
+PMUL2676.json	18	What is the entrance fee and postcode there?	Entrance Fee Inquiry, Postcode Inquiry
+PMUL2676.json	19	Entry is free. The postcode is cb23bu. May I help with anything else?	Entrance Fee Information, Postcode Information, Further Assistance Inquiry
+PMUL2676.json	20	Thank you so much. Goodbye	Gratitude, Farewell
+PMUL2676.json	21	Okay, goodbye and enjoy your time in town	Farewell, Well Wishes
+MUL0485.json	0	I am looking for a place to go in the centre, of type multiple sports.	Attraction Inquiry, Type Specification
+MUL0485.json	1	Unfortunately, there is not attraction type with multiple sports in the centre area.	Non-Availability Information
+MUL0485.json	2	Is there a nightclub located in the centre instead then?	Alternative Attraction Inquiry
+MUL0485.json	3	There are 5 nightclubs in the centre. Would you like me to send you a list with their address and price information?	Nightclub Options, Information Offer
+MUL0485.json	4	No, I just need the phone number and entrance fee for each of them.	Specific Information Request
+MUL0485.json	5	Ballare 5 pounds, phone 01223364222. club salsa 5 pounds, phone 07782218745...	Nightclub Information
+MUL0485.json	6	Thank you I also need a train going to Cambridge leaving after 17:00	Train Inquiry, Departure Time
+MUL0485.json	7	There are a lot of trains then, can you tell me where you are departing from and how many tickets you need?	Departure Location, Ticket Number Inquiry
+MUL0485.json	8	I will be departing from Bishops Stortford on Sunday.	Departure Location, Date Confirmation
+MUL0485.json	9	TR5298 leaves at 17:29 and arrives by 18:07. Can I book you for this train?	Train Schedule Information, Booking Inquiry
+MUL0485.json	10	No, that's all I needed. Thank you!	Final Confirmation
+MUL0485.json	11	Thank you, enjoy your visit!	Farewell, Well Wishes
+SNG1382.json	0	I am looking for a 4-star place to stay.	Accommodation Inquiry, Star Rating
+SNG1382.json	1	What area would you like to stay in?	Area Preference Inquiry
+SNG1382.json	2	I'd like it to be in the north, and to be a guesthouse.	Location Preference, Accommodation Type
+SNG1382.json	3	Great, there are 4 options for you here. I personally recommend Avalon. Would you like to book?	Accommodation Options, Recommendation, Booking Inquiry
+SNG1382.json	4	Yes, please book it for 5 people and 5 nights starting from Wednesday.	Booking Request
+SNG1382.json	5	Your booking was successful. Reference number is: YB23KVSX. Is there anything else I can help you with?	Booking Confirmation, Reference Number, Further Assistance Inquiry
+SNG1382.json	6	No that is all. Thanks for your help!	Final Confirmation
+SNG1382.json	7	You're welcome and thanks for using our help desk. Goodbye.	Farewell, Service Appreciation
+SSNG0095.json	0	I'm looking for a place to eat. I would like it to be an expensive restaurant in the centre.	Dining Inquiry, Price Range, Location Preference
+SSNG0095.json	1	I found 33 expensive restaurants in the centre. What type of cuisine would you like?	Restaurant Options, Cuisine Type Inquiry
+SSNG0095.json	2	I'm looking for a restaurant with Mediterranean food.	Specific Cuisine Request
+SSNG0095.json	3	I have found two restaurants. One is La Mimosa, and the other is Shiraz Restaurant, would you like me to book one for you?	Restaurant Options, Booking Inquiry
+SSNG0095.json	4	Please book La Mimosa.	Booking Request for Specific Restaurant
+SSNG0095.json	5	Can I please get the number of people dining, day, and time please.	Booking Details Inquiry
+SSNG0095.json	6	Yes, it's for 8 people. 16:45 on Monday. I would like the reference number, if it is available.	Booking Details, Reference Number Request
+SSNG0095.json	7	That wasn't available. Shall I try the Shiraz Restaurant?	Alternative Booking Inquiry
+SSNG0095.json	8	Yes, please try the Shiraz Restaurant.	Alternative Booking Request
+SSNG0095.json	9	You've got a table for Monday at Shiraz Restaurant. Your reference number is NS7MCM5B. Can I help with anything else today?	Booking Confirmation, Reference Number
+SSNG0095.json	10	That will be all. Thank you very much.	Final Confirmation
+SSNG0095.json	11	You are welcome. Enjoy your stay in Cambridge.	Farewell, Well Wishes
+PMUL1969.json	0	I would like to find out information about a hotel called Warkworth House.	Hotel Information Inquiry
+PMUL1969.json	1	Warkworth House is a guesthouse in the east area. It is moderate pricing with 4 stars...	Hotel Information, Amenities Information
+PMUL1969.json	2	Yes please. It'll be for 4 nights.	Booking Interest Confirmation
+PMUL1969.json	3	I will go ahead and book your room.	Booking Initiation
+PMUL1969.json	4	Thank you. Can I get a reference number for the booking?	Reference Number Request
+PMUL1969.json	5	In order to book, can you tell me the number of guests, number of nights, and the day...	Booking Details Request
+PMUL1969.json	6	I need to book it for 2 people for 4 nights starting from Wednesday.	Booking Details Specification
+PMUL1969.json	7	Okay, the booking was successful. The reference number is HZ6B38TH.	Booking Confirmation, Reference Number
+PMUL1969.json	8	I'm also looking for a train. I'll be traveling back to Broxbourne on Friday.	Train Inquiry
+PMUL1969.json	9	Will you be leaving from Cambridge?	Departure Location Confirmation
+PMUL1969.json	10	Yes, I will be leaving from Cambridge.	Departure Location Confirmation
+PMUL1969.json	11	What time would you like to leave around?	Departure Time Inquiry
+PMUL1969.json	12	I would like to leave after 10:30.	Departure Time Specification
+PMUL1969.json	13	TR7372 leaves Cambridge at 11:01 and arrives at Broxbourne by 12:01, would that train work for you?	Train Schedule Proposal
+PMUL1969.json	14	Yes, that will work. I need to book it for 2 people.	Train Booking Confirmation
+PMUL1969.json	15	I have booked that for you. Your reference number is XHRX4IG7.	Booking Confirmation, Reference Number
+PMUL1969.json	16	Can you find me an expensive cafe to eat at once I get off the train?	Cafe Inquiry, Price Range Specification
+PMUL1969.json	17	What type of food would you like?	Cuisine Preference Inquiry
+PMUL1969.json	18	I actually don't need a place to eat. Thank you, that is all.	Decline Food Inquiry
+PMUL1969.json	19	To be clear, do you need me to find you a place to eat?	Clarification Request
+PMUL1969.json	20	That is helpful. Thanks	Gratitude Expression
+PMUL1969.json	21	I'm confused. Should I look for a restaurant?	Clarification Request
+PMUL1969.json	22	No, I'm sorry. That's all for now. Thank you for all your help.	Final Confirmation
+PMUL1969.json	23	Thank you for using this service, goodbye	Farewell
+MUL0015.json	0	I need a hotel with free wifi and free parking, thank you	hotel amenities
+MUL0015.json	1	Allenbell is cheap and has free internet.	hotel name, hotel amenity
+MUL0015.json	2	I'm looking for something in the moderate price range actually.	price range
+MUL0015.json	3	Archway House is a moderately priced 4 star hotel in the North. Would you like to make a reservation?	hotel name, price range, hotel rating, location
+MUL0015.json	4	Yes please book the Archway House.	hotel name
+MUL0015.json	5	I'd be happy to book for you. How many people will be staying, what is your arrival day, and how many nights are you staying?
+MUL0015.json	6	I will be arriving on Tuesday and I need to book the room for four nights for three people.	arrival day, duration of stay, number of people
+MUL0015.json	7	Ok. I've booked that guesthouse for you. Your reference number is YBT4JRTR. Can I help with anything else?	reference number
+MUL0015.json	8	Yes, I would also like to find a splendid, moderately-priced place to dine in the centre. That would be just wonderful if you could help me out with that!	price range, location, restaurant quality
+MUL0015.json	9	There are several moderately priced restaurant in the centre area. Would you like a certain type of food?	
+MUL0015.json	10	I'd like an Italian restaurant, please.	restaurant type
+MUL0015.json	11	Pizza express Fen Ditton would be perfect for you guys then! Would you like more information or for me to book that for you?	restaurant name
+MUL0015.json	12	Yes, just give me the address please.		-
+MUL0015.json	13	Pizza Express Fen Ditton is located at Jesus Lane Fen Ditton. Is there anything else I can help you with?	restaurant name, restaurant address
+MUL0015.json	14	Yes. I would like to leave the restaurant by 11:15 and I would like to book a taxi to commute between the hotel and the restaurant.	departure time, transportation mode, locations
+MUL0015.json	15	Not a problem! I booked a taxi to depart the restaurant by 11:15. The car type is a blue skoda and the contact number is 07621131070.	departure time, car type, contact number
+MUL0015.json	16	Thank you very much! That's all I need today!	-
+MUL0015.json	17	You are very welcome. Have a great day.	-
+MUL0969.json	0	Hi, I need a moderate price range restaurant in the centre of town.	price range, location
+MUL0969.json	1	There are 21 restaurants that are moderately priced in the centre of town. Do you have a food preference?	price range, location
+MUL0969.json	2	British or European would be fine. May I book a table for 2 at 16:00 on a Wednesday and get a reference number please?	cuisine type, number of people, booking time, booking day, 
+MUL0969.json	3	The oak bistro is a British restaurant in the centre area, in the moderate price range. Would you like to book this restaurant?	restaurant name, cuisine type, location, price range
+MUL0969.json	4	Yes. The booking should be for 2 on Wednesday at 16:00. Could I also get a reference number?	number of people, booking day, booking time
+MUL0969.json	5	Alright, you're all booked! Your reference number is YWEKSO7H. Is there anything else I can help you with?	reference number
+MUL0969.json	6	I'm also looking for a place to visit within the same area as the restaurant. Do you have any recommendations?	location
+MUL0969.json	7	We have parks, boats, museums, and many other interesting things to do. What strikes your fancy?	types of attractions
+MUL0969.json	8	An art museum near the restaurant sounds nice. How much is the admission price?	type of attraction, location
+MUL0969.json	9	The Cambridge Contemporary Art Museum is fantastic, and it's free. Would you like more information?	attraction name, admission price
+MUL0969.json	10	I will need a taxi to take me from the museum to the restaurant. Obviously it needs to get me there before my reservation.	transportation mode, departure location, destination, timing requirement
+MUL0969.json	11	sure! expect a grey toyota and call 07319086162 to contact your taxi	car type, contact number
+MUL0969.json	12	thank you, that is all I need.	-
+MUL0969.json	13	You are welcome, please enjoy your time in Cambridge and if there's anything else we can assist you with let us know!	-
+PMUL0800.json	0	We will be on the west side of town and would like to find a place to eat while there.	location
+PMUL0800.json	1	What type of cuisine would you be looking for?		-
+PMUL0800.json	2	I want some Scottish food.	cuisine type
+PMUL0800.json	3	There are none in the area. Another type or area perhaps?	-
+PMUL0800.json	4	Yeah, can you check the south please?	location
+PMUL0800.json	5	There are no restaurants in that area.	-
+PMUL0800.json	6	What a bummer. Find me a restaurant that serves British food on the West please.	cuisine type, location
+PMUL0800.json	7	There are 3 restaurants in that area that serve British food. Is there a particular price range you're looking for?	number of restaurants, cuisine type, location, price range
+PMUL0800.json	8	The expensive range please. I will need their phone number and address. Also, I am looking for a train departing from Cambridge on Saturday.	price range, contact details, travel details
+PMUL0800.json	9	Travellers Rest is located at Huntingdon Road City Centre. The phone number is 01223276182. Where are you traveling to on Sunday?	restaurant name, location, phone number, travel destination
+PMUL0800.json	10	I need to get to London Liverpool Street by 13:00.	destination, arrival time
+PMUL0800.json	11	I would suggest train TR0995, it leaves at 09:59 and will get you to your destination by 11:27. Would you like me to book that for you?	train number, departure time, arrival time,  booking confirmation
+PMUL0800.json	12	No need to book. But, can I please get the price of the ticket?	ticket price
+PMUL0800.json	13	the price for the ticket is 13.28 pounds	ticket price
+PMUL0800.json	14	Thanks so much. That will be all the information I need today. Bye.	-
+PMUL0800.json	15	Glad I could help, Have a great day!	-
+PMUL3610.json	0	I am planning a trip in Cambridge	-
+PMUL3610.json	1	What area in Cambridge would you like to stay?	-
+PMUL3610.json	2	I'm actually looking to book a specific hotel. It is called the Alpha-Milton Guest House.	hotel name
+PMUL3610.json	3	Okay, can you tell me how many people are staying, how many days you want to stay and when you begin your stay, please?	-
+PMUL3610.json	4	I'd like to start my stay on Wednesday, it will be for two nights, and it will be 6 people.	start date, duration of stay, number of people
+PMUL3610.json	5	Ok, so you are all booked. Reference number is NM7IWBOC.	reference number
+PMUL3610.json	6	Thanks so much. I also need a train to arrive in Peterborough by 16:45.	destination, arrival time
+PMUL3610.json	7	Would you like to take the TR8327 on Friday, it arrives at 16:24?	train number, arrival time, departure day
+PMUL3610.json	8	I just want to verify that train leaves from Cambridge correct? If so, can you book it for 6 people and provide the reference number.	departure location, number of people
+PMUL3610.json	9	Yes, that is correct. I have booked it for you, the reference number is IBM6BL8X and will be leaving at 15:34. Is there anything else I can help you with?	reference number, departure time
+PMUL3610.json	10	No thank you. Goodbye.	-
+PMUL3610.json	11	Alright, have a wonderful visit in Cambridge!	-
+MUL1151.json	0	I am traveling to Cambridge and excited about seeing location attractions. Could you help me find a place to go, like a college?	location, type of attraction
+MUL1151.json	1	Certainly. I have many available. Is there a particular area you are looking in? I have several in the west and centre.	-
+MUL1151.json	2	Can you give me the entrance fee for one of the colleges in the centre?	location
+MUL1151.json	3	Corpus Christi is 2 pounds, which is in the centre.	attraction name, entrance fee, location
+MUL1151.json	4	I'm also looking for a hotel in the centre. I don't want to stay in a guesthouse. It needs to be a hotel.	location, hotel type
+MUL1151.json	5	I can book you at the University Arms Hotel. It has a 4-star rating, free parking and wifi. Does this interest you?	hotel name, hotel rating, hotel amenities
+MUL1151.json	6	Yes. That would be great.	-
+MUL1151.json	7	What will be the first day you will stay and how long will you be staying?	-
+MUL1151.json	8	I want to stay for 5 nights starting on Tuesday.	duration of stay, start date
+MUL1151.json	9	I'm sorry but you'll have to book another day or a shorter stay. When would you like to stay?	-
+MUL1151.json	10	Can you see if they have just 1 night available?	duration of stay
+MUL1151.json	11	Your booking was successful with a reference number of S1HTVV32. Is there anything else I can do for you today?	reference number
+MUL1151.json	12	I need a taxi please between the 2 places. I want to leave the attraction by 2:30.	transportation mode, departure time, locations
+MUL1151.json	13	Booking completed! Please look out for a Grey BMW, their contact number is 07130839627. Is there anything else I can help with?	car type, contact number
+MUL1151.json	14	Awesome, thanks! I think that takes care of everything I needed.	-
+MUL1151.json	15	Okay great please enjoy your stay and don't hesitate to call us back if you need anything else.	-
+PMUL1873.json	0	I'm looking for a hotel that includes free wifi and free parking.	hotel amenities
+PMUL1873.json	1	There are definitely lots of places that provide complimentary parking and wifi. Do you prefer any particular part of town, or are you looking for a certain price range?	-
+PMUL1873.json	2	I would like a hotel in the centre and it should be in the cheap price range.	location, price range
+PMUL1873.json	3	I don't have any hotels that meet your criteria but I do have two guesthouses available? Would that be okay?	-
+PMUL1873.json	4	Yes, that would be fine. What are the names of the two guesthouses?	-
+PMUL1873.json	5	One is Alexander Bed and Breakfast and the other is El Shaddai.	guesthouse names
+PMUL1873.json	6	What star ratings are they?	-
+PMUL1873.json	7	Alexander Bed and Breakfast is 4 stars and El Shaddai is 0 stars.	star ratings
+PMUL1873.json	8	Okay may I please have the phone number for Alexander Bed and Breakfast?	-
+PMUL1873.json	9	Of course! The telephone number for Alexander Bed and Breakfast is 01223525725.	phone number
+PMUL1873.json	10	Thank you! I'm also looking for a train for Saturday.	travel date
+PMUL1873.json	11	Okay. Would you like to narrow it down by departure site, destination, or arrival time?	-
+PMUL1873.json	12	I need to leave Cambridge on Saturday, please.	departure location, travel date
+PMUL1873.json	13	OK. Where are you heading, and at what time?	-
+PMUL1873.json	14	I am going to Ely and it should leave by 18:00	destination, desired departure time
+PMUL1873.json	15	The earliest train leaves at 19:50 and the last one leaves at 23:50. Which one could you like to take?	train departure times
+PMUL1873.json	16	Please pick one that meets my requirements.	-
+PMUL1873.json	17	Then, that would be TR7349 departing at 19:50 and arriving in Ely by 20:07. Do you need any tickets?	train number, departure time, arrival time
+PMUL1873.json	18	No, Make sure you get travel time, price, and train ID	-
+PMUL1873.json	19	Train ID is the one that was referenced earlier, price is 3.52 pounds per person, it is only a 17 minute trip.	train ID, ticket price, travel time
+PMUL1873.json	20	No thank you.	-
+PMUL1873.json	21	Do you need any further assistance with anything else?	-
+PMUL1873.json	22	No thank you that will be all	-
+PMUL1873.json	23	You are welcome. Thank you for contacting Cambridge TownInfo centre. Goodbye.	-	
+PMUL4349.json	0	Let's find me an expensive place to eat in the centre	price range, location
+PMUL4349.json	1	sure i have 33 options for you	number of options
+PMUL4349.json	2	How about you pick one and reserve a table for 5 on Sunday at 11:45, and I'll need that reference number too.	number of people, booking day, booking time
+PMUL4349.json	3	Sure! I've booked you at Fitzbillies at 11:45 on Sunday for 5. Your reference number is Y5EX13L7.	restaurant name, booking day, booking time, number of people, reference number
+PMUL4349.json	4	Great can you also help me get a train? I'm looking to go to Ely and arrive by 21:30	destination, arrival time
+PMUL4349.json	5	On what day will you be leaving?	-
+PMUL4349.json	6	I will be leaving on Monday	departure day
+PMUL4349.json	7	TR5484 leaves at 13:50 and costs 4.40 pounds. is that fine with you?	train number, departure time, ticket price
+PMUL4349.json	8	Yes, but i need to book four more people as well.	number of additional people
+PMUL4349.json	9	So I have 5 tickets booked. The reference number is YD9YNVV4.	number of tickets, reference number
+PMUL4349.json	10	Thank you very much.	-
+PMUL4349.json	11	Thank you. Is there anything else?	-
+PMUL4349.json	12	No, that's all. Good bye	-
+PMUL4349.json	13	You're very welcome! Have a great day!	-
+SNG0509.json	0	I would like to eat in the Center of town at an expensive place.	location, price range
+SNG0509.json	1	For Town Centre, there are African, Asian Oriental, and British options. Which of these would you prefer?	location, cuisine options
+SNG0509.json	2	How about African? I'd like to book a table for 7 at 16:15 on Tuesday.	cuisine type, number of people, booking time, booking day
+SNG0509.json	3	I have booked a table at Bedouin African restaurant for 7 people at 16:15 Tuesday. Your reference number is VAZCWIS6.	restaurant name, number of people, booking day, booking time, reference number
+SNG0509.json	4	Nope that's all I needed! Thanks!	-
+SNG0509.json	5	Okay great. Enjoy your dining experience.	-
+PMUL1566.json	0	Can you help me find a place to stay that's four stars and has free wifi?	hotel rating, hotel amenity
+PMUL1566.json	1	Twenty one accommodations meet your needs. What part of town are you planning to stay in?	number of options
+PMUL1566.json	2	That doesn't matter as long as it's cheap.	price range
+PMUL1566.json	3	There are 21 places in that criteria. What area of town? Or perhaps a need for free parking?	number of options
+PMUL1566.json	4	It doesn't matter. Like I told you, it just needs to be a cheap 4 star place with free wifi.	price range, hotel rating, hotel amenity
+PMUL1566.json	5	The Alexander bed and breakfast is the best option.	accommodation name
+PMUL1566.json	6	Okay I would like to make a booking for 5 people and 4 nights starting from Wednesday.	number of people, duration of stay, start day
+PMUL1566.json	7	Will you needing a reference number?	-
+PMUL1566.json	8	Yes, of course.	-
+PMUL1566.json	9	Booking was successful. Reference number is: JVC5MSAV. Anything else today?	reference number
+PMUL1566.json	10	I also need a train on Friday, departing after 9:00.	travel day, departure time
+PMUL1566.json	11	Ok. Where are you departing from?	-
+PMUL1566.json	12	I am departing from Cambridge	departure location
+PMUL1566.json	13	Where will you be traveling to?		-
+PMUL1566.json	14	I will be traveling to Ely, no need to book, but I need the train number, travel time departure time and arrival time	destination, travel details
+PMUL1566.json	15	Train TR8792 departs at 09:50 and will arrive in Ely at 10:07. The total travel time is 17 minutes. Anything more I can help with?	train number, departure time, arrival time, travel time
+PMUL1566.json	16	That is all. Thanks for your time.	-
+PMUL1566.json	17	Your welcome, have a great day!	-
+PMUL3566.json	0	I don't know if this is possible but can you please get me some information on the Alexander Bed and Breakfast?	accommodation name
+PMUL3566.json	1	sure, i have their information. what would you like to know?	-
+PMUL3566.json	2	Ah, I just wanted to know it was still open. Could you book me a room?	-
+PMUL3566.json	3	Sure, what day would you like it for?	-
+PMUL3566.json	4	3 nights starting from Friday.	duration of stay, start day
+PMUL3566.json	5	A reservation for 1 person?	-
+PMUL3566.json	6	No, I would like it for 4 people.	number of people
+PMUL3566.json	7	Booking was successful. Reference number is: CRLJAWX3.	reference number
+PMUL3566.json	8	I also need to find an Indian restaurant in the east please.	cuisine type, location
+PMUL3566.json	9	There are a few Indian restaurants in the east, do you have a price range you are trying to stick to?	-
+PMUL3566.json	10	In the mid-range would be fine.	price range
+PMUL3566.json	11	Rajmahal is a moderately priced Indian restaurant. How many people will be dining?	restaurant name
+PMUL3566.json	12	4 of us Friday at 14:45 I need the reference number too.	number of people, booking day, booking time
+PMUL3566.json	13	Your table is reserved, reference #NKKOLWNU. Can I help you with anything else today?	reference number
+PMUL3566.json	14	Yes, I'd also like to book a taxi. I'd like to arrive at the restaurant by the booked time.	transportation request, arrival time
+PMUL3566.json	15	Where will you be departing from?	-
+PMUL3566.json	16	I will be traveling between the hotel and restaurant.	departure and arrival locations
+PMUL3566.json	17	What time would you like to travel?	-
+PMUL3566.json	18	I would like to get to the restaurant by 14:45 please.	arrival time
+PMUL3566.json	19	Booking completed! Booked car type: white honda Contact number: 07125482836	car type, contact number
+PMUL3566.json	20	Great, thanks so much, that's all I need! Have a great day!	-
+PMUL3566.json	21	You're welcome! Goodbye.	-
+PMUL1209.json	0	Can you find me a train from Cambridge to Leicester?	departure location, destination
+PMUL1209.json	1	There are several what day and time do you want to leave or arrive?	-
+PMUL1209.json	2	I'd like to leave on Wednesday and should arrive by 13:00.	travel day, desired arrival time
+PMUL1209.json	3	The TR2176 leaves Cambridge at 09:21 and gets into Leicester at 11:06. Will that work for you?	train number, departure time, arrival time
+PMUL1209.json	4	What is the price of that train?	-
+PMUL1209.json	5	The price is 37.80 pounds. Would you like to go ahead and book a seat?	ticket price
+PMUL1209.json	6	Yes, I would like to book a seat on that train. Thank you.	-
+PMUL1209.json	7	Just to clarify, am I booking just one ticket or more?	-
+PMUL1209.json	8	Yes. Also, find me Primavera's phone number.	-
+PMUL1209.json	9	Booking was successful, the total fee is 37.79 GBP payable at the station. Reference number is: 2Z3LQ075. What else did you need?	booking confirmation, reference number
+PMUL1209.json	10	Thanks. I am also looking for the Primavera. It is an attraction.	attraction name
+PMUL1209.json	11	Yes, it's a very nice attraction.	-
+PMUL1209.json	12	Can I get their phone number please?	-
+PMUL1209.json	13	Their phone number is 01223357708. Can I help with something else?	phone number
+PMUL1209.json	14	No. That will be all. Thank you.	-
+PMUL1209.json	15	Thank you for contacting the Cambridge TownInfo centre. Goodbye	-
+PMUL0115.json	0	I need a place to eat that is expensive.	price range
+PMUL0115.json	1	I've found 57 restaurants that match your request. Is there a particular area you'd like to dine in?	number of options
+PMUL0115.json	2	In the centre, please.	location preference
+PMUL0115.json	3	There are 33 restaurants in that area, do you have a preference of the type of restaurant?	number of options
+PMUL0115.json	4	I want something with Malaysian food.	cuisine preference
+PMUL0115.json	5	I am sorry I have no listings for Malaysian food, another type?	-
+PMUL0115.json	6	I actually just need an expensive place to dine in the Centre of town.	price range, location preference
+PMUL0115.json	7	Kymmoy offers Asian Oriental food. Would you like to book a table there?	restaurant suggestion
+PMUL0115.json	8	Yes please. Can you book that for 8 people on Saturday at 15:30?	number of people, booking day, booking time
+PMUL0115.json	9	Sure thing. I will work on getting this booked and be right back with you.	-
+PMUL0115.json	10	Okay, thank you.	-
+PMUL0115.json	11	You are welcome	-
+PMUL0115.json	12	If Saturday fails, try Monday and provide the reference number. Also looking for a guesthouse in the same area with internet. Provide stars and address please.	alternative booking day, accommodation type, amenities
+PMUL0115.json	13	Your restaurant booking was successful. This is the reference number PQA4WKNF. It is for Saturday at 15:30 for 8 people.	booking confirmation, reference number
+PMUL0115.json	14	Can you book me two taxi cabs that offer Groupon discounts to take us to the restaurant?	transportation request, discount inquiry
+PMUL0115.json	15	I don't think we have any affiliations with Groupon. Is there anything else I can help you with today?	-
+PMUL0115.json	16	I'm looking for a place to stay. The hotel should be in the same price range as the restaurant and should be in the type of guesthouse.	price range, accommodation type
+PMUL0115.json	17	I am sorry but there are no guesthouses matching. Would you like to try a hotel instead?	-
+PMUL0115.json	18	A hotel would be fine.	accommodation type preference
+PMUL0115.json	19	Would you like me to book it for you?	-
+PMUL0115.json	20	What expensive hotel do you recommend?	price range
+PMUL0115.json	21	There are two hotels matching your needs and I highly recommend University Arms Hotel. Do you want me to book it?	hotel options, recommendation
+PMUL0115.json	22	I just need their address, star level and whether they have internet please.	-
+PMUL0115.json	23	University Arms Hotel is 4 stars located on Regent Street. They have internet and parking. Would you like me to book that for you?	hotel details, amenities
+PMUL0115.json	24	Not yet, that's all for now. Thank you for all your help.	-
+PMUL0115.json	25	Thank you for calling. Please call us back if we can assist you in any other way. Goodbye.	-
+PMUL3769.json	0	I am planning a trip in Cambridge.	trip planning
+PMUL3769.json	1	I can help plan your trip! What do you need?	offering assistance
+PMUL3769.json	2	I need a train ticket going to Cambridge from Norwich on Saturday anytime after 15:00.	travel request, departure location, destination, travel day, departure time
+PMUL3769.json	3	There are 9 trains traveling from Norwich to Cambridge after that time on Saturday. Do you need to arrive by a certain time?	number of options
+PMUL3769.json	4	No it doesn't matter when I get there. Can you pick one, and make me a booking for three people? I need a reference number too!		-
+PMUL3769.json	5	Okay. I've booked you three tickets on the TR9724. Your reference number is J87QHBRM. You'll owe 42.24 at the station.	booking confirmation, train number, reference number, ticket price
+PMUL3769.json	6	Thank you. I also need info on a place to go in the west. Any one will do. Just something to see.	attraction preference, location preference
+PMUL3769.json	7	You have a few attraction options in the west area; colleges, museums, and even an entertainment attraction. Which one sounds best for your trip?	attraction options
+PMUL3769.json	8	Can you recommend one and give their postcode?	-
+PMUL3769.json	9	How does Clare Hall sound? The postcode is cb39al.	attraction recommendation, postcode
+PMUL3769.json	10	That sounds great, thanks. That's all I need for today.	-PMUL3769.json	11	You're welcome! Have a great day!	-
+SNG0819.json	0	Hello, I'm looking for a place to stay in town. I'd like a place with free parking and a 2 star rating, please.	accommodation request, amenities, rating
+SNG0819.json	1	Ashley Hotel is in the north part of town and has a 2 star rating and parking.	hotel suggestion, location, rating, amenities
+SNG0819.json	2	Is it a hotel or guesthouse?	-
+SNG0819.json	3	The Ashley is a hotel. It's on the north end of town. Would you like to make a reservation here or should we keep looking?	accommodation confirmation
+SNG0819.json	4	That's fine. Can you book it for 2 people for 2 nights, starting from Thursday?	number of people, duration of stay, start day
+SNG0819.json	5	Sure! Your reference number is VEPGFLTA. Anything else?	booking confirmation, reference number
+SNG0819.json	6	No thank you. I appreciate all your help.	-
+SNG0819.json	7	You're welcome! Have a great day! Goodbye.	-
+PMUL1714.json	0	I need a train on Tuesday that arrives by 16:45.	travel day, desired arrival time
+PMUL1714.json	1	Certainly, where is your place of departure and arrival?	-
+PMUL1714.json	2	I want to depart from London and arrive in Cambridge.	departure location, destination
+PMUL1714.json	3	London Kings Cross or London Liverpool Street?	-
+PMUL1714.json	4	London Liverpool Street.	specific departure location
+PMUL1714.json	5	I have train TR1395 that leaves at 13:39 and will arrive in Cambridge by 15:07. Would that work for you? I would be happy to book your ticket.	train number, departure time, arrival time
+PMUL1714.json	6	For two people please. I will need the reference number. I also want to stay at the Lensfield Hotel.	number of people
+PMUL1714.json	7	Your train booking was successful. You can pay the fee of 33.2 at the station. Your reference number is 14AXWO0V.	booking confirmation, ticket price, reference number
+PMUL1714.json	8	Do you know the Lensfield Hotel? I need their phone # and how many stars do they currently have?	-
+PMUL1714.json	9	The Lensfield is a 3-star hotel and the phone number is 01223355017. Would you like to make reservations there?	hotel rating, phone number
+PMUL1714.json	10	No thank you. That's all I need for now.	-
+PMUL1714.json	11	Ok. Enjoy your stay.	-
+PMUL2135.json	0	Hi, I am planning a trip and could use some help with a particular attraction.	trip planning, attraction inquiry
+PMUL2135.json	1	Okay, sounds good. What attraction are you thinking about?	-
+PMUL2135.json	2	I'm looking for Milton Country Park.	attraction name
+PMUL2135.json	3	I have found it what types of information can I get you on it?	-
+PMUL2135.json	4	Can I get the attraction type, entrance fee, and postcode please?	-
+PMUL2135.json	5	It's a Park and there's no entrance fee. It's free for all. The postcode is cb46az. How can I be of further assistance today?	attraction type, entrance fee, postcode
+PMUL2135.json	6	I'm also looking for a great Italian restaurant on the east side of town that you would recommend.	cuisine preference, location preference
+PMUL2135.json	7	I would suggest Pizza Hut Fen Ditton.	restaurant suggestion
+PMUL2135.json	8	What are their prices like?	-
+PMUL2135.json	9	They are moderately priced.	price range
+PMUL2135.json	10	What is the address and phone number to Pizza Hut Fen Ditton?	-
+PMUL2135.json	11	The number is 01223323737, and it is in Cambridge Retail Park Newmarket Road Fen Ditton.	phone number, address
+PMUL2135.json	12	Great! Thank you! That's all I needed.	-
+PMUL2135.json	13	You're welcome! Have a wonderful day.	-
+PMUL1941.json	0	I'm hoping to book a train from Bishops Stortford to Cambridge. Please list all times for that route.	departure location, destination, request for train times
+PMUL1941.json	1	There's a total of 70 trains. Is there a particular time of day you would like to travel?	number of trains
+PMUL1941.json	2	I need to leave Wednesday and arrive after 11:15.	travel day, desired arrival time
+PMUL1941.json	3	Thanks for that information. What time would you like to leave?	-
+PMUL1941.json	4	I would like to leave after 11:15.	departure time
+PMUL1941.json	5	Unfortunately there are no trains meeting your criteria. Would you like me to look up another departure and arrival time?	-
+PMUL1941.json	6	No, I want that day and time please.	confirmation of travel day and time
+PMUL1941.json	7	The TR0516 leaves Cambridge at 11:29 on Wednesday. Will that work for you?	train number, departure time, travel day
+PMUL1941.json	8	Well, I need to know the arrival time first.	-
+PMUL1941.json	9	Arrival time is 12:07 does that work for you?	arrival time
+PMUL1941.json	10	Yeah, that works. Can you recommend a 0 star hotel for me?	hotel rating request
+PMUL1941.json	11	Yes I have two guesthouses and 1 hotel in that category do you have a preferred area?	accommodation options
+PMUL1941.json	12	I'd like it to be in the centre please.	location preference
+PMUL1941.json	13	In the town centre there is one guesthouse and one hotel with 0 stars. Would you like the hotel or the guesthouse?	accommodation options
+PMUL1941.json	14	It doesn't really matter. Moderately priced located in the centre. I need phone number, hotel type and if they have free parking or not.	price range, location preference
+PMUL1941.json	15	I suggest Cityroomz. It's a hotel in the moderate price range. Their phone number is 01223327978.	hotel suggestion, price range, phone number
+PMUL1941.json	16	Does it have free parking?		-
+PMUL1941.json	17	Yes, they do have free parking at this hotel.	parking availability confirmation
+PMUL1941.json	18	Great, thank you. That is all that I need.	-
+PMUL1941.json	19	You're welcome, have a great day!	-
+MUL0616.json	0	Hi! I'm looking for a train to Norwich on Saturday.	travel destination, travel day
+MUL0616.json	1	What is your departure site and time?	-
+MUL0616.json	2	From Cambridge and I want to arrive by 20:30.	departure location, desired arrival time
+MUL0616.json	3	I have a train that would leave at 18:36 and arrive by 19:55. It's 79 minutes long and costs 14.08 pounds. Would you like me to book it?	train details, travel time, ticket price
+MUL0616.json	4	Yes please, book it for 7 people.	number of people
+MUL0616.json	5	All booked and ready to go! The reference number is RJVNE0PT.	booking confirmation, reference number
+MUL0616.json	6	I am also looking for a place to stay. Can you find a 1 star hotel for me that is a guesthouse?	accommodation type, rating request
+MUL0616.json	7	Unfortunately, there are no guesthouses that meet that criteria. In the area, there are 24 guesthouses, some of them cheap, some expensive. Can you narrow down your choices?	-
+MUL0616.json	8	If there are no 1 star guesthouses, please find me the cheapest one that includes free wifi.	price range, amenity preference
+MUL0616.json	9	Alexander bed and breakfast is a 4 star cheap guesthouse with free internet and parking located in the centre. Does that work for you?	accommodation suggestion, amenities, location
+MUL0616.json	10	Yes Alexander bed and breakfast that has a star of 4 would be great.	accommodation confirmation
+MUL0616.json	11	Sure, I can book that for you. How many people will be staying and for how long also arriving what day?	-
+MUL0616.json	12	There will be 7 people staying for 2 nights beginning on Thursday.	number of people, duration of stay, start day
+MUL0616.json	13	My attempt to book your party was unsuccessful. Would you like to try a different length of stay, or a different hotel?	-
+MUL0616.json	14	Would 1 night work instead? If it does could I get the reference number please?	alternative duration of stay
+MUL0616.json	15	Yes, 1 night will work. I've booked the hotel for you, and your reference number is FIINUE5N. What else can I help you with?	booking confirmation, reference number
+MUL0616.json	16	That will be all. Thank you.	-
+MUL0616.json	17	Wonderful. Enjoy your stay in Cambridge!	-
+SNG0952.json	0	Can you help me in finding a suitable guesthouse please?	accommodation request
+SNG0952.json	1	There are 24 guest houses available. Is there a particular area of the city you'd prefer to stay in?	number of options
+SNG0952.json	2	Yes, I'd like to stay in the centre of town please.	location preference
+SNG0952.json	3	I have two options for you. Both offer free wifi and parking. The El Shaddai has no star rating or the Alexander B & B has a 4-star rating.	accommodation options, amenities, rating
+SNG0952.json	4	I'll take the El Shaddai please.	accommodation selection
+SNG0952.json	5	Sure thing. Do you want me to book it for you?	-
+SNG0952.json	6	Yes. I want to book it for 2 nights, 5 people starting on Friday.	duration of stay, number of people, start day
+SNG0952.json	7	The booking was successful, your reference code is 8090X905. Do you want further assistance?	booking confirmation, reference number
+SNG0952.json	8	No that's all. Good bye!	-
+SNG0952.json	9	Thank you goodbye!	-
+PMUL1254.json	0	Can you help me find a place to go on the east side of town where I can enjoy multiple sports? Thanks.	activity preference, location preference
+PMUL1254.json	1	There is the Cherry Hinton Village Centre. Would you like me to make a reservation for you?	activity suggestion
+PMUL1254.json	2	No thanks, I'd like to call them first. Can you give me the address, phone number and entry fee for Cherry Hinton Village Centre?	-
+PMUL1254.json	3	Their phone number is 01223576412 and the postcode cb19ej. They are located at Colville Road, Cherry Hinton.	phone number, postcode, address
+PMUL1254.json	4	Looking for a train. The train should go to London Liverpool Street and should leave on Saturday.	train destination, travel day
+PMUL1254.json	5	Where will you leave from?	-
+PMUL1254.json	6	I am leaving from Cambridge.	departure location
+PMUL1254.json	7	How about train TR4078 that leaves at 13:39?	train suggestion
+PMUL1254.json	8	When will it arrive? I need it to arrive by 19:30.	-
+PMUL1254.json	9	How about the TR8530? That train arrives at 19:07.	train suggestion
+PMUL1254.json	10	That will work, go ahead and book that.	-
+PMUL1254.json	11	For how many people?	-
+PMUL1254.json	12	I don't need reservations I just need a price and train ID.	-
+PMUL1254.json	13	The train ID is TR8530 and the price is 13.28 pounds.	train ID, ticket price
+PMUL1254.json	14	Ok that's it thank you.	-
+PMUL1254.json	15	Thank you for letting us help you today.	-
+WOZ20556.json	0	Hi, I want a moderately priced restaurant located in the south part of town.	restaurant preferences
+WOZ20556.json	1	Pizza hut Cherry Hinton is in the south part of town and in the moderate price range. Would you like their location?	restaurant suggestion, price range
+WOZ20556.json	2	Address and postcode please	-
+WOZ20556.json	3	Their address is G4 Cambridge Leisure Park Clifton Way Cherry Hinton and their postcode is C.B 1, 7 D.Y. Is there anything else I can do for you today?	address, postcode
+WOZ20556.json	4	No, thank you, goodbye.	-
+WOZ20556.json	5	Enjoy your meal!	-
+WOZ20251.json	0	I would like inexpensive Turkish food.	restaurant preferences
+WOZ20251.json	1	I'm sorry I do not show anything available. Would you like to try something else?	-
+WOZ20251.json	2	Ok, how about an Italian restaurant?	cuisine preference
+WOZ20251.json	3	There are 5 listings matching your criteria. Do you have a preference on the area?	number of options
+WOZ20251.json	4	I do not have a preference of area as long as it's cheap. Please make a suggestion.	location preference
+WOZ20251.json	5	Ask is an Italian restaurant in the cheap priced category, and is the centre of town.	restaurant suggestion, price range, location
+WOZ20251.json	6	Can I get the address and phone number?		-
+WOZ20251.json	7	Ask is at 12 Bridge Street City Centre and can be reached at 01223 364917. Can I help you anything else today?	address, phone number
+WOZ20251.json	8	No, thank you. Good bye.	-
+WOZ20251.json	9	You're welcome, enjoy your food.	-
+PMUL1961.json	0	Hi! Would you please help me find a hotel to stay at?	-
+PMUL1961.json	1	Certainly, what can I use to narrow down your search?	-
+PMUL1961.json	2	It needs to be 2 star, have free parking and free wifi.		hotel preferences
+PMUL1961.json	3	We have 3 results. What area are you interested in staying in? And what price range?	-
+PMUL1961.json	4	I do not have a preference. Please pick one and get me a booking for 8 people for 3 nights starting from Friday.	location preference, booking details
+PMUL1961.json	5	I was able to book you at the Ashley Hotel. Your booking was successful. Reference number is : 79F1XIW2 . Is there anything else I can help you with?	hotel name, booking details
+PMUL1961.json	6	I also need a train that should leave after 16:45, destination Bishops Stortford.	train preferences, destination
+PMUL1961.json	7	I see a departing train leaving at 17:29.	train suggestion
+PMUL1961.json	8	I need to travel on Monday, departing Cambridge. Does that make a difference?	-
+PMUL1961.json	9	That train still meets your criteria. Train TR2530 departs Cambridge for Bishops Stortford on Monday at 17:29. Would you like me to book this?	train details, booking suggestion
+PMUL1961.json	10	Yes, I need 8 tickets. And could you provide the reference number?	booking details
+PMUL1961.json	11	Booking was successful, the total fee is 80.8 GBP payable at the station. Your reference number is 99VHJ3AR . Do you need anything else?	booking details
+PMUL1961.json	12	No thanks, that will be everything.	-
+PMUL1961.json	13	It was a pleasure to help you. Have a good day.	-
+PMUL1961.json	14	Thank you for your time goodbye!	-
+PMUL1961.json	15	Thanks for using our services.	-
+SNG1239.json	0	I need to book a train from Stansted Airport to Cambridge, can you help me?	-
+SNG1239.json	1	Yes, what day will you be traveling?	-
+SNG1239.json	2	Monday, after 11:15.	travel details
+SNG1239.json	3	There are 13 trains that match. Shall I reserve any tickets for you?	-
+SNG1239.json	4	Can you reserve 6 tickets on the next train after 11:15?	ticket reservation
+SNG1239.json	5	I reserved you 6 seats on the TR5754. It leaves at 11:24. The total fee of 60.59 GBP is payable at the station. Your reference number is: 1IBJMMM8	ticket and booking details
+SNG1239.json	6	Great sounds perfect!! Thank you so much for all your help.	-
+SNG1239.json	7	No problem. Have a great day and trip. Goodbye.	-
+WOZ20364.json	0	I would like a restaurant that serves world food.	-
+WOZ20364.json	1	I'm sorry, there are no restaurants that serve world food. Can I help you with something else?	-
+WOZ20364.json	2	How about Portuguese food?	cuisine preference
+WOZ20364.json	3	Nandos serves Portuguese and is located in the south part of town and is in the cheap price range.	restaurant details
+WOZ20364.json	4	What is the phone number and address?	-
+WOZ20364.json	5	The phone number is 01223 327908, and the address is Cambridge Leisure Park Clifton Way. May I help you with anything else?	restaurant contact details
+WOZ20364.json	6	Thank you goodbye.	-
+WOZ20364.json	7	Goodbye.	-
+PMUL2160.json	0	Can you find me an expensive restaurant in the north?	-
+PMUL2160.json	1	There are five expensive places to dine in the North. Would you like to try Asian oriental cuisine?	restaurant preferences
+PMUL2160.json	2	Yes. That's exactly what I'm looking for.	-
+PMUL2160.json	3	Saigon City at 169 High Street Chesterton fits the description. Shall I make a reservation for you?	restaurant details, reservation offer
+PMUL2160.json	4	Yes, please. Can you make a reservation for 7 people at 12:30 on a Tuesday? Thanks	reservation details
+PMUL2160.json	5	I made a reservation for you at Saigon City for a party of 7 on Tuesday at 12:30. Your reference is N2FHZ30Y. Is there anything else I can help you with?	reservation confirmation	
+PMUL2160.json	6	Wonderful. I'm also looking for a cool place to check out in the same area.	-
+PMUL2160.json	7	There are 79 attractions, would you like to try Cineworld Cinema?	attraction suggestion
+PMUL2160.json	8	I actually want to find a museum and it should be in the same area as my restaurant	-
+PMUL2160.json	9	Sorry, I'm not seeing any results. Want to try a different type or area?	-
+PMUL2160.json	10	Let's try for a boat type instead then.	attraction preference
+PMUL2160.json	11	There is one listing here. It is Riverboat Georgina. Its entrance fee is unlisted but the address is Cambridge Passenger Cruisers, Jubilee House, postcode CB43AX, and phone 01223902091	attraction details
+PMUL2160.json	12	Thanks, I don't need anything else today! Bye!	-
+PMUL2160.json	13	Ok. Have a great day.	-
+MUL0564.json	0	Hello, do you have any information regarding interesting theaters to visit in the center of town?	-
+MUL0564.json	1	Sure thing, there are four theaters in the center of town. ADC Theatre, Cambridge Arts Theatre, Mumford Theatre, and The Cambridge Corn Exchange.	theater names
+MUL0564.json	2	I'm interested in one of the theaters! Can I get the entrance fee information for those?	-
+MUL0564.json	3	I'm sorry, but none of the theaters list the entrance fee. Would you like the phone number for any of them?	-
+MUL0564.json	4	That's okay, could you provide me with the postcode and address, please? Also, I am looking for a train leaving after 16:00 this Monday.	-
+MUL0564.json	5	The ADC Theatre is located on Park Street and its postcode is CB23PJ. Before I find your train, could you tell me where you would like to go?	theater address, train details
+MUL0564.json	6	Of course, silly me :P I am looking for a train from Cambridge to Stevenage.	train details
+MUL0564.json	7	The TR0254 leaves Cambridge at 17:21.	train details
+MUL0564.json	8	Awesome, thank you very much! I'm pretty sure that's all I need right now, but I'll be back if I think of anything else. Later!	-
+MUL0564.json	9	Great thank you for using our system.	-
+PMUL1398.json	0	Yes, I am hoping you can give me some information on a train.	-
+PMUL1398.json	1	Can you please give me more information? There are numerous trains leaving on Friday to Cambridge.	-
+PMUL1398.json	2	I am leaving Cambridge on Tuesday and going to Birmingham New Street.	-
+PMUL1398.json	3	Sure, there are plenty of trains that match your requirements. Did you have a particular time of day you were wanting to travel on Friday?	-
+PMUL1398.json	4	I would like to leave after 21:45.	departure time
+PMUL1398.json	5	There are two trains that fit your criteria. One will arrive at 24:33 and the other at 01:44. Which suits your needs?	train options
+PMUL1398.json	6	How about the one arriving at 01:44.	selected train
+PMUL1398.json	7	How many tickets can I book for you?	-
+PMUL1398.json	8	What is the travel time for the one arriving at 1:44.	-
+PMUL1398.json	9	The travel time for TR4724 is 163 minutes.	travel time
+PMUL1398.json	10	I would also like to go to a museum.	-
+PMUL1398.json	11	There are 23 museums available. Which part of town do you prefer?	-
+PMUL1398.json	12	I'm fine with any area of town.	museum preference
+PMUL1398.json	13	We have lovely museums in the east, west, south, and center. I prefer the Byard Art myself that's in the south.	museum recommendation
+PMUL1398.json	14	I would like to give that a try. What is the entrance fee, phone number, and area?	-
+PMUL1398.json	15	Byard Art Museum is located in the south part of town. Their entrance fee is free. Their phone number is 01223464646. Can I further assist you today?	museum details
+PMUL1398.json	16	Thanks so much. That's all I need. Goodbye!	-
+PMUL1398.json	17	You are welcome! I hope you enjoy your time at the museum. I am happy to have been able to assist you.	-
+WOZ20486.json	0	I need a South restaurant with British food.	-
+WOZ20486.json	1	I'm sorry but I cannot find any British food located in the south part of town.	-
+WOZ20486.json	2	Is there a Chinese restaurant in the south part of town?	-
+WOZ20486.json	3	I've found three Chinese restaurants in the south part of town. Does price range matter to you?	-
+WOZ20486.json	4	No, any price range is fine. I would just like to know the address and price range of one of the restaurants.	-
+WOZ20486.json	5	Peking Restaurant is an expensive Chinese restaurant that is located at 10 Homerton Street City Centre. Is there anything else I can help you with today?	restaurant details
+WOZ20486.json	6	No, thank you.	-
+WOZ20486.json	7	Thank you.	-
+SNG0702.json	0	Are you able to find me a French expensive restaurant?	-
+SNG0702.json	1	There are 2 expensive French restaurants. Restaurant Two Two, and Cote. Which would you like to book?	-
+SNG0702.json	2	I like the sound of Restaurant Two Two, could you give me their postcode, address, and phone number?	-
+SNG0702.json	3	Restaurant Two Two is located at 22 Chesterton Road, Chesterton. Their postcode is cb43ax. You can reach them at 01223351880. Any other information I can provide?	restaurant details
+SNG0702.json	4	No, that's everything I needed today. Thank you.	-
+SNG0702.json	5	You're quite welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!	-
+PMUL2406.json	0	I want to know where I can go in the town centre of Cambridge.	-
+PMUL2406.json	1	There are many places to go in the centre. Are you looking for an attraction or restaurant?	-
+PMUL2406.json	2	An attraction of any type would be fine as long as it's in the centre, please.	-
+PMUL2406.json	3	I could recommend Old Schools. It is architecture and free to see. Would you like more information?	attraction recommendation
+PMUL2406.json	4	Yes, tell me one of those recommendations.	-
+PMUL2406.json	5	Old Schools is an architectural attraction on Trinity Lane that has no entrance fee. Their phone number is 01223332320. Can I help you with anything else?	attraction details
+PMUL2406.json	6	Can you provide me the full address including postal code? Thanks.	-
+PMUL2406.json	7	The address listed for Old Schools is simply Trinity Lane. And their postcode is cb21tt. Is there anything more I can do for you today?	-
+PMUL2406.json	8	Yes, I would also like to find an expensive restaurant in the same area.	-
+PMUL2406.json	9	What kind of food would you like and what price range?	-
+PMUL2406.json	10	I would prefer British food and an expensive price range if possible.	-
+PMUL2406.json	11	I have three restaurants in the town centre that meet your needs. Might I suggest the Cambridge Chop House or Fitzbillies restaurant?	restaurant options
+PMUL2406.json	12	Can you please recommend one and give me their postcode and phone number?	-
+PMUL2406.json	13	The Cambridge Chop House is a favorite of mine. It's located at 1 Kings Parade. Would you like me to book it for you?	restaurant details
+PMUL2406.json	14	No thanks, but I am interested in getting a taxi from Old Schools to the Cambridge Chop House. Can you help?	-
+PMUL2406.json	15	What time will you be needing the taxi service for?	-
+PMUL2406.json	16	I would like to leave Old Schools by 19:00.	departure time
+PMUL2406.json	17	Okay, you're all set! A red Lexus will be picking you up. The contact number is 07885505407. Is there anything else I can help you with today?	taxi details
+PMUL2406.json	18	Thank you, that will be all I need.	-
+PMUL2406.json	19	I'm happy to have been of service. Goodbye!	-
